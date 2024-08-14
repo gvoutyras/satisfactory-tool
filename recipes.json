@@ -1,0 +1,1510 @@
+[
+    {
+        "id": "iron-ingot",
+        "name": "Iron Ingot",
+        "time": 2,
+        "ingredients": [
+            {
+                "id": "iron-ore",
+                "amount": 1
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-iron-ingot",
+        "name": "Alternate: Iron Ingot Alloy",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "iron-ore",
+                "amount": 1
+            },
+            {
+                "id": "copper-ore",
+                "amount": 1
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "copper-ingot",
+        "name": "Copper Ingot",
+        "time": 2,
+        "ingredients": [
+            {
+                "id": "copper-ore",
+                "amount": 1
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "steel-ingot",
+        "name": "Steel Ingot",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "iron-ore",
+                "amount": 3
+            },
+            {
+                "id": "coal",
+                "amount": 3
+            }
+        ],
+        "amount": 2
+    },
+    {
+        "id": "alt-steel-ingot",
+        "name": "Alternate: Steel Ingot",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "iron-ingot",
+                "amount": 3
+            },
+            {
+                "id": "coal",
+                "amount": 6
+            }
+        ],
+        "amount": 6
+    },
+    {
+        "id": "alt-enriched-steel-ingot",
+        "name": "Alternate: Enriched Steel Ingot",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "iron-ore",
+                "amount": 6
+            },
+            {
+                "id": "compacted-coal",
+                "amount": 3
+            }
+        ],
+        "amount": 6
+    },
+    {
+        "id": "iron-plate",
+        "name": "Iron Plate",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "iron-ingot",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "iron-rod",
+        "name": "Iron Rod",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "iron-ingot",
+                "amount": 1
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "wire",
+        "name": "Wire",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "copper-ingot",
+                "amount": 1
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "alt-iron-wire",
+        "name": "Alternate: Iron Wire",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "iron-ingot",
+                "amount": 2
+            }
+        ],
+        "amount": 9
+    },
+    {
+        "id": "alt-caterium-wire",
+        "name": "Alternate: Caterium Wire",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "caterium-ingot",
+                "amount": 1
+            }
+        ],
+        "amount": 9
+    },
+    {
+        "id": "cable",
+        "name": "Cable",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "wire",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-cable",
+        "name": "Alternate: Rubber Cable",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "wire",
+                "amount": 3
+            },
+            {
+                "id": "rubber",
+                "amount": 2
+            }
+        ],
+        "amount": 10
+    },
+    {
+        "id": "biomass-from-leaves",
+        "name": "Biomass",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "leaves",
+                "amount": 10
+            }
+        ],
+        "amount": 6
+    },
+    {
+        "id": "concrete",
+        "name": "Concrete",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "limestone",
+                "amount": 3
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "screw",
+        "name": "Screw",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "iron-rod",
+                "amount": 1
+            }
+        ],
+        "amount": 6
+    },
+    {
+        "id": "alt-screw",
+        "name": "Alternate: Screw",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "iron-ingot",
+                "amount": 2
+            }
+        ],
+        "amount": 12
+    },
+    {
+        "id": "alt-steel-screw",
+        "name": "Alternate: Steel Screw",
+        "time": 12,
+        "ingredients": [
+            {
+                "id": "steel-beam",
+                "amount": 1
+            }
+        ],
+        "amount": 36
+    },
+    {
+        "id": "biomass-from-wood",
+        "name": "Biomass",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "wood",
+                "amount": 5
+            }
+        ],
+        "amount": 25
+    },
+    {
+        "id": "biomass-from-alien-carapace",
+        "name": "Biomass",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "alien-carapace",
+                "amount": 1
+            }
+        ],
+        "amount": 100
+    },
+    {
+        "id": "biomass-from-mycelia",
+        "name": "Biomass",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "mycelia",
+                "amount": 10
+            }
+        ],
+        "amount": 10
+    },
+    {
+        "id": "biofuel",
+        "name": "Biofuel",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "biomass",
+                "amount": 4
+            }
+        ],
+        "amount": 2
+    },
+    {
+        "id": "color-cartridge",
+        "name": "Color Cartridge",
+        "time": 40,
+        "ingredients": [
+            {
+                "id": "flower-petals",
+                "amount": 25
+            }
+        ],
+        "amount": 50
+    },
+    {
+        "id": "steel-beam",
+        "name": "Steel Beam",
+        "time": 6,
+        "ingredients": [
+            {
+                "id": "steel-ingot",
+                "amount": 3
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "steel-pipe",
+        "name": "Steel Pipe",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "steel-ingot",
+                "amount": 1
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "reinforced-iron-plate",
+        "name": "Reinforced Iron Plate",
+        "time": 12,
+        "ingredients": [
+            {
+                "id": "iron-plate",
+                "amount": 4
+            },
+            {
+                "id": "screw",
+                "amount": 24
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-reinforced-iron-plate",
+        "name": "Alternate: Reinforced Iron Plate",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "iron-plate",
+                "amount": 10
+            },
+            {
+                "id": "screw",
+                "amount": 24
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "alt-stitched-iron-plate",
+        "name": "Alternate: Stitched Iron Plate",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "iron-plate",
+                "amount": 6
+            },
+            {
+                "id": "wire",
+                "amount": 30
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "rotor",
+        "name": "Rotor",
+        "time": 10,
+        "ingredients": [
+            {
+                "id": "iron-rod",
+                "amount": 3
+            },
+            {
+                "id": "screw",
+                "amount": 22
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-rotor",
+        "name": "Alternate: Rotor",
+        "time": 20,
+        "ingredients": [
+            {
+                "id": "steel-pipe",
+                "amount": 6
+            },
+            {
+                "id": "wire",
+                "amount": 20
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "modular-frame",
+        "name": "Modular Frame",
+        "time": 15,
+        "ingredients": [
+            {
+                "id": "reinforced-iron-plate",
+                "amount": 3
+            },
+            {
+                "id": "iron-rod",
+                "amount": 6
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-modular-frame",
+        "name": "Alternate: Modular Frame",
+        "time": 30,
+        "ingredients": [
+            {
+                "id": "reinforced-iron-plate",
+                "amount": 6
+            },
+            {
+                "id": "steel-pipe",
+                "amount": 6
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "encased-industrial-beam",
+        "name": "Encased Industrial Beam",
+        "time": 15,
+        "ingredients": [
+            {
+                "id": "steel-beam",
+                "amount": 4
+            },
+            {
+                "id": "concrete",
+                "amount": 5
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-encased-industrial-beam",
+        "name": "Alternate: Encased Industrial Beam",
+        "time": 30,
+        "ingredients": [
+            {
+                "id": "steel-pipe",
+                "amount": 18
+            },
+            {
+                "id": "concrete",
+                "amount": 10
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "stator",
+        "name": "Stator",
+        "time": 10,
+        "ingredients": [
+            {
+                "id": "steel-pipe",
+                "amount": 3
+            },
+            {
+                "id": "wire",
+                "amount": 10
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-stator",
+        "name": "Alternate: Stator",
+        "time": 20,
+        "ingredients": [
+            {
+                "id": "steel-pipe",
+                "amount": 6
+            },
+            {
+                "id": "quickwire",
+                "amount": 20
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "motor",
+        "name": "Motor",
+        "time": 12,
+        "ingredients": [
+            {
+                "id": "rotor",
+                "amount": 2
+            },
+            {
+                "id": "stator",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-motor",
+        "name": "Alternate: Motor",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "rotor",
+                "amount": 2
+            },
+            {
+                "id": "stator",
+                "amount": 2
+            },
+            {
+                "id": "crystal-oscillator",
+                "amount": 1
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "circuit-board",
+        "name": "Circuit Board",
+        "time": 12,
+        "ingredients": [
+            {
+                "id": "wire",
+                "amount": 12
+            },
+            {
+                "id": "plastic",
+                "amount": 6
+            }
+        ],
+        "amount": 2
+    },
+    {
+        "id": "alt-circuit-board",
+        "name": "Alternate: Circuit Board",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "rubber",
+                "amount": 16
+            },
+            {
+                "id": "wire",
+                "amount": 24
+            }
+        ],
+        "amount": 6
+    },
+    {
+        "id": "alt-quickwire-circuit-board",
+        "name": "Alternate: Quickwire Circuit Board",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "plastic",
+                "amount": 12
+            },
+            {
+                "id": "quickwire",
+                "amount": 30
+            }
+        ],
+        "amount": 6
+    },
+    {
+        "id": "plastic",
+        "name": "Plastic",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "crude-oil",
+                "amount": 4
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "alt-plastic",
+        "name": "Alternate: Plastic",
+        "time": 16,
+        "ingredients": [
+            {
+                "id": "rubber",
+                "amount": 8
+            },
+            {
+                "id": "fuel",
+                "amount": 5
+            }
+        ],
+        "amount": 9
+    },
+    {
+        "id": "fuel",
+        "name": "Fuel",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "crude-oil",
+                "amount": 8
+            }
+        ],
+        "amount": 5
+    },
+    {
+        "id": "rubber",
+        "name": "Rubber",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "crude-oil",
+                "amount": 4
+            }
+        ],
+        "amount": 4
+    },
+    {
+        "id": "heavy-modular-frame",
+        "name": "Heavy Modular Frame",
+        "time": 30,
+        "ingredients": [
+            {
+                "id": "modular-frame",
+                "amount": 5
+            },
+            {
+                "id": "steel-pipe",
+                "amount": 15
+            },
+            {
+                "id": "encased-industrial-beam",
+                "amount": 5
+            },
+            {
+                "id": "screw",
+                "amount": 90
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-heavy-modular-frame",
+        "name": "Alternate: Heavy Modular Frame",
+        "time": 64,
+        "ingredients": [
+            {
+                "id": "modular-frame",
+                "amount": 8
+            },
+            {
+                "id": "encased-industrial-beam",
+                "amount": 10
+            },
+            {
+                "id": "steel-pipe",
+                "amount": 36
+            },
+            {
+                "id": "concrete",
+                "amount": 25
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "computer",
+        "name": "Computer",
+        "time": 32,
+        "ingredients": [
+            {
+                "id": "circuit-board",
+                "amount": 10
+            },
+            {
+                "id": "cable",
+                "amount": 12
+            },
+            {
+                "id": "plastic",
+                "amount": 18
+            },
+            {
+                "id": "screw",
+                "amount": 60
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-computer",
+        "name": "Alternate: Quickwire Computer",
+        "time": 64,
+        "ingredients": [
+            {
+                "id": "circuit-board",
+                "amount": 20
+            },
+            {
+                "id": "quickwire",
+                "amount": 80
+            },
+            {
+                "id": "rubber",
+                "amount": 48
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "alt-crystal-computer",
+        "name": "Alternate: Crystal Computer",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "circuit-board",
+                "amount": 4
+            },
+            {
+                "id": "crystal-oscillator",
+                "amount": 1
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "caterium-ingot",
+        "name": "Caterium Ingot",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "caterium-ore",
+                "amount": 3
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "quickwire",
+        "name": "Quickwire",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "caterium-ingot",
+                "amount": 1
+            }
+        ],
+        "amount": 4
+    },
+    {
+        "id": "alt-quickwire",
+        "name": "Alternate: Quickwire",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "caterium-ingot",
+                "amount": 1
+            },
+            {
+                "id": "copper-ingot",
+                "amount": 2
+            }
+        ],
+        "amount": 12
+    },
+    {
+        "id": "supercomputer",
+        "name": "Supercomputer",
+        "time": 32,
+        "ingredients": [
+            {
+                "id": "computer",
+                "amount": 2
+            },
+            {
+                "id": "ai-limiter",
+                "amount": 2
+            },
+            {
+                "id": "high-speed-connector",
+                "amount": 3
+            },
+            {
+                "id": "plastic",
+                "amount": 21
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "high-speed-connector",
+        "name": "High-Speed Connector",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "quickwire",
+                "amount": 40
+            },
+            {
+                "id": "cable",
+                "amount": 10
+            },
+            {
+                "id": "plastic",
+                "amount": 6
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-high-speed-connector",
+        "name": "Alternate: High-Speed Connector",
+        "time": 48,
+        "ingredients": [
+            {
+                "id": "quickwire",
+                "amount": 66
+            },
+            {
+                "id": "silica",
+                "amount": 48
+            },
+            {
+                "id": "rubber",
+                "amount": 18
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "ai-limiter",
+        "name": "A.I. Limiter",
+        "time": 12,
+        "ingredients": [
+            {
+                "id": "circuit-board",
+                "amount": 2
+            },
+            {
+                "id": "quickwire",
+                "amount": 18
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "fabric",
+        "name": "Fabric",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "mycelia",
+                "amount": 1
+            },
+            {
+                "id": "biomass",
+                "amount": 5
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "filter",
+        "name": "Filter",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "coal",
+                "amount": 5
+            },
+            {
+                "id": "rubber",
+                "amount": 2
+            },
+            {
+                "id": "fabric",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "beacon",
+        "name": "Beacon",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "iron-plate",
+                "amount": 3
+            },
+            {
+                "id": "iron-rod",
+                "amount": 1
+            },
+            {
+                "id": "wire",
+                "amount": 15
+            },
+            {
+                "id": "cable",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-beacon",
+        "name": "Alternate: Beacon",
+        "time": 32,
+        "ingredients": [
+            {
+                "id": "steel-beam",
+                "amount": 1
+            },
+            {
+                "id": "steel-pipe",
+                "amount": 4
+            },
+            {
+                "id": "crystal-oscillator",
+                "amount": 1
+            }
+        ],
+        "amount": 5
+    },
+    {
+        "id": "quartz-crystal",
+        "name": "Quartz Crystal",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "raw-quartz",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "crystal-oscillator",
+        "name": "Crystal Oscillator",
+        "time": 32,
+        "ingredients": [
+            {
+                "id": "quartz-crystal",
+                "amount": 10
+            },
+            {
+                "id": "cable",
+                "amount": 14
+            },
+            {
+                "id": "reinforced-iron-plate",
+                "amount": 4
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-crystal-oscillator",
+        "name": "Alternate: Crystal Oscillator",
+        "time": 64,
+        "ingredients": [
+            {
+                "id": "quartz-crystal",
+                "amount": 20
+            },
+            {
+                "id": "rubber",
+                "amount": 24
+            },
+            {
+                "id": "ai-limiter",
+                "amount": 1
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "black-powder",
+        "name": "Black Powder",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "coal",
+                "amount": 1
+            },
+            {
+                "id": "sulfur",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-black-powder",
+        "name": "Alternate: Black Powder",
+        "time": 16,
+        "ingredients": [
+            {
+                "id": "sulfur",
+                "amount": 2
+            },
+            {
+                "id": "compacted-coal",
+                "amount": 1
+            }
+        ],
+        "amount": 4
+    },
+    {
+        "id": "nobelisk",
+        "name": "Nobelisk",
+        "time": 20,
+        "ingredients": [
+            {
+                "id": "black-powder",
+                "amount": 5
+            },
+            {
+                "id": "steel-pipe",
+                "amount": 5
+            },
+            {
+                "id": "beacon",
+                "amount": 1
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-nobelisk",
+        "name": "Alternate: Nobelisk",
+        "time": 40,
+        "ingredients": [
+            {
+                "id": "black-powder",
+                "amount": 10
+            },
+            {
+                "id": "steel-pipe",
+                "amount": 10
+            },
+            {
+                "id": "crystal-oscillator",
+                "amount": 1
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "biomass-from-alien-organs",
+        "name": "Biomass",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "alien-organs",
+                "amount": 1
+            }
+        ],
+        "amount": 100
+    },
+    {
+        "id": "cartridge",
+        "name": "Cartridge",
+        "time": 20,
+        "ingredients": [
+            {
+                "id": "nobelisk",
+                "amount": 1
+            },
+            {
+                "id": "steel-pipe",
+                "amount": 4
+            }
+        ],
+        "amount": 4
+    },
+    {
+        "id": "alt-coal",
+        "name": "Alternate: Compacted Coal",
+        "time": 6,
+        "ingredients": [
+            {
+                "id": "coal",
+                "amount": 3
+            },
+            {
+                "id": "sulfur",
+                "amount": 3
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "alt-wood-coal",
+        "name": "Alternate: Wood Coal",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "wood",
+                "amount": 3
+            }
+        ],
+        "amount": 10
+    },
+    {
+        "id": "alt-biomass-coal",
+        "name": "Alternate: Biomass Coal",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "biomass",
+                "amount": 5
+            }
+        ],
+        "amount": 6
+    },
+    {
+        "id": "turbofuel",
+        "name": "Turbofuel",
+        "time": 16,
+        "ingredients": [
+            {
+                "id": "fuel",
+                "amount": 5
+            },
+            {
+                "id": "compacted-coal",
+                "amount": 4
+            }
+        ],
+        "amount": 5
+    },
+    {
+        "id": "alt-concrete",
+        "name": "Alternate: Concrete",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "silica",
+                "amount": 1
+            },
+            {
+                "id": "limestone",
+                "amount": 4
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "silica",
+        "name": "Silica",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "raw-quartz",
+                "amount": 2
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "alt-silica",
+        "name": "Alternate: Silica",
+        "time": 8,
+        "ingredients": [
+            {
+                "id": "raw-quartz",
+                "amount": 4
+            },
+            {
+                "id": "limestone",
+                "amount": 2
+            }
+        ],
+        "amount": 9
+    },
+    {
+        "id": "aluminum-ingot",
+        "name": "Aluminum Ingot",
+        "time": 4,
+        "ingredients": [
+            {
+                "id": "bauxite",
+                "amount": 7
+            },
+            {
+                "id": "silica",
+                "amount": 6
+            }
+        ],
+        "amount": 2
+    },
+    {
+        "id": "alclad-aluminum-sheet",
+        "name": "Alclad Aluminum Sheet",
+        "time": 12,
+        "ingredients": [
+            {
+                "id": "aluminum-ingot",
+                "amount": 3
+            },
+            {
+                "id": "copper-ingot",
+                "amount": 2
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "heat-sink",
+        "name": "Heat Sink",
+        "time": 12,
+        "ingredients": [
+            {
+                "id": "alclad-aluminum-sheet",
+                "amount": 4
+            },
+            {
+                "id": "rubber",
+                "amount": 10
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-heat-sink",
+        "name": "Alternate: Heat Sink",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "alclad-aluminum-sheet",
+                "amount": 8
+            },
+            {
+                "id": "wire",
+                "amount": 36
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "radio-control-unit",
+        "name": "Radio Control Unit",
+        "time": 24,
+        "ingredients": [
+            {
+                "id": "heat-sink",
+                "amount": 4
+            },
+            {
+                "id": "rubber",
+                "amount": 24
+            },
+            {
+                "id": "crystal-oscillator",
+                "amount": 1
+            },
+            {
+                "id": "computer",
+                "amount": 1
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-radio-control-unit",
+        "name": "Alternate: Radio Control Unit",
+        "time": 48,
+        "ingredients": [
+            {
+                "id": "heat-sink",
+                "amount": 10
+            },
+            {
+                "id": "supercomputer",
+                "amount": 1
+            },
+            {
+                "id": "quartz-crystal",
+                "amount": 30
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "turbo-motor",
+        "name": "Turbo Motor",
+        "time": 32,
+        "ingredients": [
+            {
+                "id": "heat-sink",
+                "amount": 4
+            },
+            {
+                "id": "radio-control-unit",
+                "amount": 2
+            },
+            {
+                "id": "motor",
+                "amount": 4
+            },
+            {
+                "id": "rubber",
+                "amount": 40
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-turbo-motor",
+        "name": "Alternate: Turbo Motor",
+        "time": 64,
+        "ingredients": [
+            {
+                "id": "motor",
+                "amount": 8
+            },
+            {
+                "id": "radio-control-unit",
+                "amount": 4
+            },
+            {
+                "id": "ai-limiter",
+                "amount": 8
+            },
+            {
+                "id": "stator",
+                "amount": 8
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "battery",
+        "name": "Battery",
+        "time": 32,
+        "ingredients": [
+            {
+                "id": "alclad-aluminum-sheet",
+                "amount": 8
+            },
+            {
+                "id": "wire",
+                "amount": 24
+            },
+            {
+                "id": "sulfur",
+                "amount": 20
+            },
+            {
+                "id": "plastic",
+                "amount": 9
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "uranium-cell",
+        "name": "Uranium Cell",
+        "time": 60,
+        "ingredients": [
+            {
+                "id": "uranium",
+                "amount": 45
+            },
+            {
+                "id": "concrete",
+                "amount": 9
+            }
+        ],
+        "amount": 10
+    },
+    {
+        "id": "alt-uranium-cell",
+        "name": "Alternate: Uranium Cell",
+        "time": 120,
+        "ingredients": [
+            {
+                "id": "uranium",
+                "amount": 45
+            },
+            {
+                "id": "sulfur",
+                "amount": 45
+            },
+            {
+                "id": "silica",
+                "amount": 45
+            },
+            {
+                "id": "quickwire",
+                "amount": 60
+            }
+        ],
+        "amount": 35
+    },
+    {
+        "id": "em-control-rod",
+        "name": "Electromagnetic Control Rod",
+        "time": 30,
+        "ingredients": [
+            {
+                "id": "stator",
+                "amount": 3
+            },
+            {
+                "id": "ai-limiter",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-em-control-rod",
+        "name": "Alternate: Electromagnetic Control Rod",
+        "time": 60,
+        "ingredients": [
+            {
+                "id": "stator",
+                "amount": 6
+            },
+            {
+                "id": "high-speed-connector",
+                "amount": 3
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "nuclear-fuel-rod",
+        "name": "Nuclear Fuel Rod",
+        "time": 150,
+        "ingredients": [
+            {
+                "id": "uranium-cell",
+                "amount": 25
+            },
+            {
+                "id": "encased-industrial-beam",
+                "amount": 3
+            },
+            {
+                "id": "em-control-rod",
+                "amount": 5
+            }
+        ],
+        "amount": 1
+    },
+    {
+        "id": "alt-nuclear-fuel-rod",
+        "name": "Alternate: Nuclear Fuel Rod",
+        "time": 300,
+        "ingredients": [
+            {
+                "id": "uranium-cell",
+                "amount": 50
+            },
+            {
+                "id": "em-control-rod",
+                "amount": 10
+            },
+            {
+                "id": "crystal-oscillator",
+                "amount": 3
+            }, 
+            {
+                "id": "beacon",
+                "amount": 6
+            }
+        ],
+        "amount": 3
+    },
+    {
+        "id": "iodine-infused-filter",
+        "name": "Iodine Infused Filter",
+        "time": 16,
+        "ingredients": [
+            {
+                "id": "filter",
+                "amount": 1
+            },
+            {
+                "id": "quickwire",
+                "amount": 8
+            },
+            {
+                "id": "rubber",
+                "amount": 2
+            }
+        ],
+        "amount": 1
+    }
+]

@@ -1,0 +1,14 @@
+[{
+    "ClassName": "Recipe_ComputerSuper_C",
+    "FullName": "BlueprintGeneratedClass /Game/FactoryGame/Recipes/Manufacturer/Recipe_ComputerSuper.Recipe_ComputerSuper_C",
+    "mDisplayName": "Supercomputer",
+    "mIngredients": "((ItemClass=/Script/Engine.BlueprintGeneratedClass'\"/Game/FactoryGame/Resource/Parts/Computer/Desc_Computer.Desc_Computer_C\"',Amount=2),(ItemClass=/Script/Engine.BlueprintGeneratedClass'\"/Game/FactoryGame/Resource/Parts/CircuitBoardHighSpeed/Desc_CircuitBoardHighSpeed.Desc_CircuitBoardHighSpeed_C\"',Amount=2),(ItemClass=/Script/Engine.BlueprintGeneratedClass'\"/Game/FactoryGame/Resource/Parts/HighSpeedConnector/Desc_HighSpeedConnector.Desc_HighSpeedConnector_C\"',Amount=3),(ItemClass=/Script/Engine.BlueprintGeneratedClass'\"/Game/FactoryGame/Resource/Parts/Plastic/Desc_Plastic.Desc_Plastic_C\"',Amount=28))",
+    "mProduct": "((ItemClass=/Script/Engine.BlueprintGeneratedClass'\"/Game/FactoryGame/Resource/Parts/ComputerSuper/Desc_ComputerSuper.Desc_ComputerSuper_C\"',Amount=1))",
+    "mManufacturingMenuPriority": "2.000000",
+    "mManufactoringDuration": "32.000000",
+    "mManualManufacturingMultiplier": "1.500000",
+    "mProducedIn": "(\"/Game/FactoryGame/Buildable/Factory/ManufacturerMk1/Build_ManufacturerMk1.Build_ManufacturerMk1_C\",\"/Game/FactoryGame/Buildable/-Shared/WorkBench/BP_WorkBenchComponent.BP_WorkBenchComponent_C\",\"/Script/FactoryGame.FGBuildableAutomatedWorkBench\")",
+    "mRelevantEvents": "",
+    "mVariablePowerConsumptionConstant": "0.000000",
+    "mVariablePowerConsumptionFactor": "1.000000"
+}]
