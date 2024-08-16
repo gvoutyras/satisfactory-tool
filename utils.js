@@ -7,4 +7,14 @@ const getLiquids = () => {
   fs.writeFileSync("./liquids.json", JSON.stringify(result));
 };
 
-getLiquids();
+const getRawMaterials = () => {
+  const rawMats = data[11].Classes;
+
+  const result = rawMats.reduce((acc, el) => {
+    acc.push(el.ClassName);
+
+    return acc;
+  }, []);
+
+  fs.writeFileSync("./rawMaterials.json", JSON.stringify(result));
+};

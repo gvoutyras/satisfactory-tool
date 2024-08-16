@@ -7,6 +7,7 @@
         "produce": [
             {
                 "id": "Desc_IronPlate_C",
+                "name": "Iron Plate",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -18,6 +19,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -35,6 +38,7 @@
         "produce": [
             {
                 "id": "Desc_IronRod_C",
+                "name": "Iron Rod",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -46,6 +50,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -63,6 +69,7 @@
         "produce": [
             {
                 "id": "Desc_IronIngot_C",
+                "name": "Iron Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -74,6 +81,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -91,6 +100,7 @@
         "produce": [
             {
                 "id": "Desc_Cement_C",
+                "name": "Concrete",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -102,6 +112,8 @@
         "ingredients": [
             {
                 "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -111,6 +123,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -128,6 +142,7 @@
         "produce": [
             {
                 "id": "Desc_ColorCartridge_C",
+                "name": "Color Cartridge",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -139,6 +154,8 @@
         "ingredients": [
             {
                 "id": "Desc_FlowerPetals_C",
+                "raw": false,
+                "name": "Flower Petals",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -156,6 +173,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidTurboFuel_C",
+                "name": "Turbofuel",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -167,6 +185,8 @@
         "ingredients": [
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -176,6 +196,8 @@
             },
             {
                 "id": "Desc_CompactedCoal_C",
+                "raw": false,
+                "name": "Compacted Coal",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -193,6 +215,7 @@
         "produce": [
             {
                 "id": "Desc_TurboFuel_C",
+                "name": "Packaged Turbofuel",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -204,6 +227,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidTurboFuel_C",
+                "raw": false,
+                "name": "Turbofuel",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -213,6 +238,8 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -230,6 +257,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidTurboFuel_C",
+                "name": "Turbofuel",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -239,6 +267,7 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -250,6 +279,8 @@
         "ingredients": [
             {
                 "id": "Desc_TurboFuel_C",
+                "raw": false,
+                "name": "Packaged Turbofuel",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -267,6 +298,7 @@
         "produce": [
             {
                 "id": "Desc_Coal_C",
+                "name": "Coal",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -278,6 +310,8 @@
         "ingredients": [
             {
                 "id": "Desc_Wood_C",
+                "raw": false,
+                "name": "Wood",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -295,6 +329,7 @@
         "produce": [
             {
                 "id": "Desc_Coal_C",
+                "name": "Coal",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -306,6 +341,8 @@
         "ingredients": [
             {
                 "id": "Desc_GenericBiomass_C",
+                "raw": false,
+                "name": "Biomass",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -323,6 +360,7 @@
         "produce": [
             {
                 "id": "Desc_CompactedCoal_C",
+                "name": "Compacted Coal",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -334,6 +372,8 @@
         "ingredients": [
             {
                 "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -343,6 +383,8 @@
             },
             {
                 "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -360,6 +402,7 @@
         "produce": [
             {
                 "id": "Desc_CircuitBoard_C",
+                "name": "Circuit Board",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -371,6 +414,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -380,6 +425,8 @@
             },
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -397,6 +444,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidFuel_C",
+                "name": "Fuel",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -406,6 +454,7 @@
             },
             {
                 "id": "Desc_PolymerResin_C",
+                "name": "Polymer Resin",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -417,6 +466,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -434,6 +485,7 @@
         "produce": [
             {
                 "id": "Desc_PetroleumCoke_C",
+                "name": "Petroleum Coke",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -445,6 +497,8 @@
         "ingredients": [
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -462,6 +516,7 @@
         "produce": [
             {
                 "id": "Desc_Plastic_C",
+                "name": "Plastic",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -471,6 +526,7 @@
             },
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "name": "Heavy Oil Residue",
                 "amountRaw": "1000",
                 "amount": 1,
                 "perMinute": {
@@ -482,6 +538,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -499,6 +557,7 @@
         "produce": [
             {
                 "id": "Desc_Rubber_C",
+                "name": "Rubber",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -508,6 +567,7 @@
             },
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "name": "Heavy Oil Residue",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -519,6 +579,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -536,6 +598,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidFuel_C",
+                "name": "Fuel",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -547,6 +610,8 @@
         "ingredients": [
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -564,6 +629,7 @@
         "produce": [
             {
                 "id": "Desc_Plastic_C",
+                "name": "Plastic",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -575,6 +641,8 @@
         "ingredients": [
             {
                 "id": "Desc_PolymerResin_C",
+                "raw": false,
+                "name": "Polymer Resin",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -584,6 +652,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -601,6 +671,7 @@
         "produce": [
             {
                 "id": "Desc_Rubber_C",
+                "name": "Rubber",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -612,6 +683,8 @@
         "ingredients": [
             {
                 "id": "Desc_PolymerResin_C",
+                "raw": false,
+                "name": "Polymer Resin",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -621,6 +694,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -638,6 +713,7 @@
         "produce": [
             {
                 "id": "Desc_IronRod_C",
+                "name": "Iron Rod",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -649,6 +725,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -666,6 +744,7 @@
         "produce": [
             {
                 "id": "Desc_SteelPlate_C",
+                "name": "Steel Beam",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -677,6 +756,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -694,6 +775,7 @@
         "produce": [
             {
                 "id": "Desc_SteelPipe_C",
+                "name": "Steel Pipe",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -705,6 +787,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -722,6 +806,7 @@
         "produce": [
             {
                 "id": "Desc_SteelIngot_C",
+                "name": "Steel Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -733,6 +818,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -742,6 +829,8 @@
             },
             {
                 "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -759,6 +848,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_2_C",
+                "name": "Versatile Framework",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -770,6 +860,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -779,6 +871,8 @@
             },
             {
                 "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -796,6 +890,7 @@
         "produce": [
             {
                 "id": "Desc_IronPlate_C",
+                "name": "Iron Plate",
                 "amountRaw": "18",
                 "amount": "18",
                 "perMinute": {
@@ -807,6 +902,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -816,6 +913,8 @@
             },
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -833,6 +932,7 @@
         "produce": [
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -844,6 +944,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -861,6 +963,7 @@
         "produce": [
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -872,6 +975,8 @@
         "ingredients": [
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -889,6 +994,7 @@
         "produce": [
             {
                 "id": "Desc_Fuel_C",
+                "name": "Packaged Fuel",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -900,6 +1006,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -909,6 +1017,8 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -926,6 +1036,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidBiofuel_C",
+                "name": "Liquid Biofuel",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -937,6 +1048,8 @@
         "ingredients": [
             {
                 "id": "Desc_Biofuel_C",
+                "raw": false,
+                "name": "Solid Biofuel",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -946,6 +1059,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -963,6 +1078,7 @@
         "produce": [
             {
                 "id": "Desc_PackagedBiofuel_C",
+                "name": "Packaged Liquid Biofuel",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -974,6 +1090,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidBiofuel_C",
+                "raw": false,
+                "name": "Liquid Biofuel",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -983,6 +1101,8 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1000,6 +1120,7 @@
         "produce": [
             {
                 "id": "Desc_PackagedOil_C",
+                "name": "Packaged Oil",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1011,6 +1132,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1020,6 +1143,8 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1037,6 +1162,7 @@
         "produce": [
             {
                 "id": "Desc_PackagedOilResidue_C",
+                "name": "Packaged Heavy Oil Residue",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1048,6 +1174,8 @@
         "ingredients": [
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1057,6 +1185,8 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1074,6 +1204,7 @@
         "produce": [
             {
                 "id": "Desc_PackagedWater_C",
+                "name": "Packaged Water",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1085,6 +1216,8 @@
         "ingredients": [
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1094,6 +1227,8 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1111,6 +1246,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidBiofuel_C",
+                "name": "Liquid Biofuel",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1120,6 +1256,7 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1131,6 +1268,8 @@
         "ingredients": [
             {
                 "id": "Desc_PackagedBiofuel_C",
+                "raw": false,
+                "name": "Packaged Liquid Biofuel",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1148,6 +1287,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidFuel_C",
+                "name": "Fuel",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1157,6 +1297,7 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1168,6 +1309,8 @@
         "ingredients": [
             {
                 "id": "Desc_Fuel_C",
+                "raw": false,
+                "name": "Packaged Fuel",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1185,6 +1328,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidOil_C",
+                "name": "Crude Oil",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1194,6 +1338,7 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1205,6 +1350,8 @@
         "ingredients": [
             {
                 "id": "Desc_PackagedOil_C",
+                "raw": false,
+                "name": "Packaged Oil",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1222,6 +1369,7 @@
         "produce": [
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "name": "Heavy Oil Residue",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1231,6 +1379,7 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1242,6 +1391,8 @@
         "ingredients": [
             {
                 "id": "Desc_PackagedOilResidue_C",
+                "raw": false,
+                "name": "Packaged Heavy Oil Residue",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1259,6 +1410,7 @@
         "produce": [
             {
                 "id": "Desc_Water_C",
+                "name": "Water",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1268,6 +1420,7 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1279,6 +1432,8 @@
         "ingredients": [
             {
                 "id": "Desc_PackagedWater_C",
+                "raw": false,
+                "name": "Packaged Water",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1296,6 +1451,7 @@
         "produce": [
             {
                 "id": "Desc_CopperSheet_C",
+                "name": "Copper Sheet",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -1307,6 +1463,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -1316,6 +1474,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -1333,6 +1493,7 @@
         "produce": [
             {
                 "id": "Desc_Cement_C",
+                "name": "Concrete",
                 "amountRaw": "9",
                 "amount": "9",
                 "perMinute": {
@@ -1344,6 +1505,8 @@
         "ingredients": [
             {
                 "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -1353,6 +1516,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1370,6 +1535,7 @@
         "produce": [
             {
                 "id": "Desc_Rubber_C",
+                "name": "Rubber",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -1381,6 +1547,8 @@
         "ingredients": [
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -1390,6 +1558,8 @@
             },
             {
                 "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -1407,6 +1577,7 @@
         "produce": [
             {
                 "id": "Desc_QuartzCrystal_C",
+                "name": "Quartz Crystal",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -1418,6 +1589,8 @@
         "ingredients": [
             {
                 "id": "Desc_RawQuartz_C",
+                "raw": true,
+                "name": "Raw Quartz",
                 "amountRaw": "9",
                 "amount": "9",
                 "perMinute": {
@@ -1427,6 +1600,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -1444,6 +1619,7 @@
         "produce": [
             {
                 "id": "Desc_QuartzCrystal_C",
+                "name": "Quartz Crystal",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -1455,6 +1631,8 @@
         "ingredients": [
             {
                 "id": "Desc_RawQuartz_C",
+                "raw": true,
+                "name": "Raw Quartz",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -1472,6 +1650,7 @@
         "produce": [
             {
                 "id": "Desc_IronIngot_C",
+                "name": "Iron Ingot",
                 "amountRaw": "13",
                 "amount": "13",
                 "perMinute": {
@@ -1483,6 +1662,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -1492,6 +1673,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -1509,6 +1692,7 @@
         "produce": [
             {
                 "id": "Desc_CopperIngot_C",
+                "name": "Copper Ingot",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -1520,6 +1704,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreCopper_C",
+                "raw": true,
+                "name": "Copper Ore",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -1529,6 +1715,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -1546,6 +1734,7 @@
         "produce": [
             {
                 "id": "Desc_GoldIngot_C",
+                "name": "Caterium Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -1557,6 +1746,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreGold_C",
+                "raw": true,
+                "name": "Caterium Ore",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1566,6 +1757,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1583,6 +1776,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumIngot_C",
+                "name": "Aluminum Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -1594,6 +1788,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumScrap_C",
+                "raw": false,
+                "name": "Aluminum Scrap",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1611,6 +1807,7 @@
         "produce": [
             {
                 "id": "Desc_UraniumCell_C",
+                "name": "Encased Uranium Cell",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -1620,6 +1817,7 @@
             },
             {
                 "id": "Desc_SulfuricAcid_C",
+                "name": "Sulfuric Acid",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -1631,6 +1829,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreUranium_C",
+                "raw": true,
+                "name": "Uranium",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -1640,6 +1840,8 @@
             },
             {
                 "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -1649,6 +1851,8 @@
             },
             {
                 "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
                 "amountRaw": "8000",
                 "amount": 8,
                 "perMinute": {
@@ -1666,6 +1870,7 @@
         "produce": [
             {
                 "id": "Desc_CoolingSystem_C",
+                "name": "Cooling System",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -1677,6 +1882,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumPlateReinforced_C",
+                "raw": false,
+                "name": "Heat Sink",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1686,6 +1893,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1695,6 +1904,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -1704,6 +1915,8 @@
             },
             {
                 "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
                 "amountRaw": "25000",
                 "amount": "25000",
                 "perMinute": {
@@ -1721,6 +1934,7 @@
         "produce": [
             {
                 "id": "Desc_NitricAcid_C",
+                "name": "Nitric Acid",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -1732,6 +1946,8 @@
         "ingredients": [
             {
                 "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
                 "amountRaw": "12000",
                 "amount": "12000",
                 "perMinute": {
@@ -1741,6 +1957,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -1750,6 +1968,8 @@
             },
             {
                 "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -1767,6 +1987,7 @@
         "produce": [
             {
                 "id": "Desc_NonFissibleUranium_C",
+                "name": "Non-fissile Uranium",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -1776,6 +1997,7 @@
             },
             {
                 "id": "Desc_Water_C",
+                "name": "Water",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -1787,6 +2009,8 @@
         "ingredients": [
             {
                 "id": "Desc_NuclearWaste_C",
+                "raw": false,
+                "name": "Uranium Waste",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -1796,6 +2020,8 @@
             },
             {
                 "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -1805,6 +2031,8 @@
             },
             {
                 "id": "Desc_NitricAcid_C",
+                "raw": false,
+                "name": "Nitric Acid",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -1814,6 +2042,8 @@
             },
             {
                 "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -1831,6 +2061,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumCasing_C",
+                "name": "Aluminum Casing",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1842,6 +2073,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -1859,6 +2092,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumPlate_C",
+                "name": "Alclad Aluminum Sheet",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -1870,6 +2104,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -1879,6 +2115,8 @@
             },
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -1896,6 +2134,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrameLightweight_C",
+                "name": "Radio Control Unit",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -1907,6 +2146,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
                 "amountRaw": "32",
                 "amount": "32",
                 "perMinute": {
@@ -1916,6 +2157,8 @@
             },
             {
                 "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -1925,6 +2168,8 @@
             },
             {
                 "id": "Desc_Computer_C",
+                "raw": false,
+                "name": "Computer",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -1942,6 +2187,7 @@
         "produce": [
             {
                 "id": "Desc_AluminaSolution_C",
+                "name": "Alumina Solution",
                 "amountRaw": "12000",
                 "amount": 12,
                 "perMinute": {
@@ -1951,6 +2197,7 @@
             },
             {
                 "id": "Desc_Silica_C",
+                "name": "Silica",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -1962,6 +2209,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreBauxite_C",
+                "raw": true,
+                "name": "Bauxite",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -1971,6 +2220,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "18000",
                 "amount": 18,
                 "perMinute": {
@@ -1988,6 +2239,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumScrap_C",
+                "name": "Aluminum Scrap",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -1997,6 +2249,7 @@
             },
             {
                 "id": "Desc_Water_C",
+                "name": "Water",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -2008,6 +2261,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminaSolution_C",
+                "raw": false,
+                "name": "Alumina Solution",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -2017,6 +2272,8 @@
             },
             {
                 "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2034,6 +2291,7 @@
         "produce": [
             {
                 "id": "Desc_PackagedAlumina_C",
+                "name": "Packaged Alumina Solution",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2045,6 +2303,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminaSolution_C",
+                "raw": false,
+                "name": "Alumina Solution",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -2054,6 +2314,8 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2071,6 +2333,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumIngot_C",
+                "name": "Aluminum Ingot",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -2082,6 +2345,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumScrap_C",
+                "raw": false,
+                "name": "Aluminum Scrap",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -2091,6 +2356,8 @@
             },
             {
                 "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -2108,6 +2375,7 @@
         "produce": [
             {
                 "id": "Desc_Silica_C",
+                "name": "Silica",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -2119,6 +2387,8 @@
         "ingredients": [
             {
                 "id": "Desc_RawQuartz_C",
+                "raw": true,
+                "name": "Raw Quartz",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -2136,6 +2406,7 @@
         "produce": [
             {
                 "id": "Desc_CrystalOscillator_C",
+                "name": "Crystal Oscillator",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2147,6 +2418,8 @@
         "ingredients": [
             {
                 "id": "Desc_QuartzCrystal_C",
+                "raw": false,
+                "name": "Quartz Crystal",
                 "amountRaw": "36",
                 "amount": "36",
                 "perMinute": {
@@ -2156,6 +2429,8 @@
             },
             {
                 "id": "Desc_Cable_C",
+                "raw": false,
+                "name": "Cable",
                 "amountRaw": "28",
                 "amount": "28",
                 "perMinute": {
@@ -2165,6 +2440,8 @@
             },
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -2182,6 +2459,7 @@
         "produce": [
             {
                 "id": "Desc_AluminaSolution_C",
+                "name": "Alumina Solution",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -2191,6 +2469,7 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2202,6 +2481,8 @@
         "ingredients": [
             {
                 "id": "Desc_PackagedAlumina_C",
+                "raw": false,
+                "name": "Packaged Alumina Solution",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2219,6 +2500,7 @@
         "produce": [
             {
                 "id": "Desc_PolymerResin_C",
+                "name": "Polymer Resin",
                 "amountRaw": "13",
                 "amount": "13",
                 "perMinute": {
@@ -2228,6 +2510,7 @@
             },
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "name": "Heavy Oil Residue",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -2239,6 +2522,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -2256,6 +2541,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_1_C",
+                "name": "Smart Plating",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2267,6 +2553,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2276,6 +2564,8 @@
             },
             {
                 "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2285,6 +2575,8 @@
             },
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -2302,6 +2594,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_3_C",
+                "name": "Automated Wiring",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -2313,6 +2606,8 @@
         "ingredients": [
             {
                 "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2322,6 +2617,8 @@
             },
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "40",
                 "amount": "40",
                 "perMinute": {
@@ -2331,6 +2628,8 @@
             },
             {
                 "id": "Desc_HighSpeedConnector_C",
+                "raw": false,
+                "name": "High-Speed Connector",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2348,6 +2647,7 @@
         "produce": [
             {
                 "id": "Desc_SteelPlateReinforced_C",
+                "name": "Encased Industrial Beam",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2359,6 +2659,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -2368,6 +2670,8 @@
             },
             {
                 "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -2385,6 +2689,7 @@
         "produce": [
             {
                 "id": "Desc_Motor_C",
+                "name": "Motor",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2396,6 +2701,8 @@
         "ingredients": [
             {
                 "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2405,6 +2712,8 @@
             },
             {
                 "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2422,6 +2731,7 @@
         "produce": [
             {
                 "id": "Desc_Stator_C",
+                "name": "Stator",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2433,6 +2743,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -2442,6 +2754,8 @@
             },
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "8",
                 "amount": "8",
                 "perMinute": {
@@ -2459,6 +2773,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrameHeavy_C",
+                "name": "Heavy Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2470,6 +2785,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -2479,6 +2796,8 @@
             },
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -2488,6 +2807,8 @@
             },
             {
                 "id": "Desc_SteelPlateReinforced_C",
+                "raw": false,
+                "name": "Encased Industrial Beam",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -2497,6 +2818,8 @@
             },
             {
                 "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
                 "amountRaw": "100",
                 "amount": "100",
                 "perMinute": {
@@ -2514,6 +2837,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_3_C",
+                "name": "Automated Wiring",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2525,6 +2849,8 @@
         "ingredients": [
             {
                 "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2534,6 +2860,8 @@
             },
             {
                 "id": "Desc_Cable_C",
+                "raw": false,
+                "name": "Cable",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -2551,6 +2879,7 @@
         "produce": [
             {
                 "id": "Desc_CircuitBoardHighSpeed_C",
+                "name": "AI Limiter",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2562,6 +2891,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -2571,6 +2902,8 @@
             },
             {
                 "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -2588,6 +2921,7 @@
         "produce": [
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "name": "Heavy Oil Residue",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -2597,6 +2931,7 @@
             },
             {
                 "id": "Desc_PolymerResin_C",
+                "name": "Polymer Resin",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2608,6 +2943,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -2625,6 +2962,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrameHeavy_C",
+                "name": "Heavy Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2636,6 +2974,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -2645,6 +2985,8 @@
             },
             {
                 "id": "Desc_SteelPlateReinforced_C",
+                "raw": false,
+                "name": "Encased Industrial Beam",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -2654,6 +2996,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -2663,6 +3007,8 @@
             },
             {
                 "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
                 "amountRaw": "104",
                 "amount": "104",
                 "perMinute": {
@@ -2680,6 +3026,7 @@
         "produce": [
             {
                 "id": "Desc_Computer_C",
+                "name": "Computer",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2691,6 +3038,8 @@
         "ingredients": [
             {
                 "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -2700,6 +3049,8 @@
             },
             {
                 "id": "Desc_Cable_C",
+                "raw": false,
+                "name": "Cable",
                 "amountRaw": "9",
                 "amount": "9",
                 "perMinute": {
@@ -2709,6 +3060,8 @@
             },
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "18",
                 "amount": "18",
                 "perMinute": {
@@ -2718,6 +3071,8 @@
             },
             {
                 "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
                 "amountRaw": "52",
                 "amount": "52",
                 "perMinute": {
@@ -2735,6 +3090,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_4_C",
+                "name": "Modular Engine",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2746,6 +3102,8 @@
         "ingredients": [
             {
                 "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2755,6 +3113,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -2764,6 +3124,8 @@
             },
             {
                 "id": "Desc_SpaceElevatorPart_1_C",
+                "raw": false,
+                "name": "Smart Plating",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2781,6 +3143,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_5_C",
+                "name": "Adaptive Control Unit",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2792,6 +3155,8 @@
         "ingredients": [
             {
                 "id": "Desc_SpaceElevatorPart_3_C",
+                "raw": false,
+                "name": "Automated Wiring",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -2801,6 +3166,8 @@
             },
             {
                 "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -2810,6 +3177,8 @@
             },
             {
                 "id": "Desc_ModularFrameHeavy_C",
+                "raw": false,
+                "name": "Heavy Modular Frame",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2819,6 +3188,8 @@
             },
             {
                 "id": "Desc_Computer_C",
+                "raw": false,
+                "name": "Computer",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2836,6 +3207,7 @@
         "produce": [
             {
                 "id": "Desc_Wire_C",
+                "name": "Wire",
                 "amountRaw": "30",
                 "amount": "30",
                 "perMinute": {
@@ -2847,6 +3219,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -2856,6 +3230,8 @@
             },
             {
                 "id": "Desc_GoldIngot_C",
+                "raw": false,
+                "name": "Caterium Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2873,6 +3249,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_2_C",
+                "name": "Versatile Framework",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -2884,6 +3261,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2893,6 +3272,8 @@
             },
             {
                 "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -2902,6 +3283,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "8",
                 "amount": "8",
                 "perMinute": {
@@ -2919,6 +3302,7 @@
         "produce": [
             {
                 "id": "Desc_CircuitBoard_C",
+                "name": "Circuit Board",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -2930,6 +3314,8 @@
         "ingredients": [
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -2939,6 +3325,8 @@
             },
             {
                 "id": "Desc_PetroleumCoke_C",
+                "raw": false,
+                "name": "Petroleum Coke",
                 "amountRaw": "9",
                 "amount": "9",
                 "perMinute": {
@@ -2956,6 +3344,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumScrap_C",
+                "name": "Aluminum Scrap",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -2965,6 +3354,7 @@
             },
             {
                 "id": "Desc_Water_C",
+                "name": "Water",
                 "amountRaw": "7000",
                 "amount": 7,
                 "perMinute": {
@@ -2976,6 +3366,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminaSolution_C",
+                "raw": false,
+                "name": "Alumina Solution",
                 "amountRaw": "12000",
                 "amount": 12,
                 "perMinute": {
@@ -2985,6 +3377,8 @@
             },
             {
                 "id": "Desc_PetroleumCoke_C",
+                "raw": false,
+                "name": "Petroleum Coke",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -3002,6 +3396,7 @@
         "produce": [
             {
                 "id": "Desc_Fuel_C",
+                "name": "Packaged Fuel",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3013,6 +3408,8 @@
         "ingredients": [
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "1000",
                 "amount": 1,
                 "perMinute": {
@@ -3022,6 +3419,8 @@
             },
             {
                 "id": "Desc_PackagedWater_C",
+                "raw": false,
+                "name": "Packaged Water",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3039,6 +3438,7 @@
         "produce": [
             {
                 "id": "Desc_Rotor_C",
+                "name": "Rotor",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -3050,6 +3450,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -3059,6 +3461,8 @@
             },
             {
                 "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
                 "amountRaw": "52",
                 "amount": "52",
                 "perMinute": {
@@ -3076,6 +3480,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrame_C",
+                "name": "Modular Frame",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3087,6 +3492,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -3096,6 +3503,8 @@
             },
             {
                 "id": "Desc_IronRod_C",
+                "raw": false,
+                "name": "Iron Rod",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -3113,6 +3522,7 @@
         "produce": [
             {
                 "id": "Desc_Rotor_C",
+                "name": "Rotor",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3124,6 +3534,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronRod_C",
+                "raw": false,
+                "name": "Iron Rod",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -3133,6 +3545,8 @@
             },
             {
                 "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
                 "amountRaw": "25",
                 "amount": "25",
                 "perMinute": {
@@ -3150,6 +3564,7 @@
         "produce": [
             {
                 "id": "Desc_CopperSheet_C",
+                "name": "Copper Sheet",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3161,6 +3576,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3178,6 +3595,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_1_C",
+                "name": "Smart Plating",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3189,6 +3607,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3198,6 +3618,8 @@
             },
             {
                 "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3215,6 +3637,7 @@
         "produce": [
             {
                 "id": "Desc_CopperIngot_C",
+                "name": "Copper Ingot",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -3226,6 +3649,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreCopper_C",
+                "raw": true,
+                "name": "Copper Ore",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -3235,6 +3660,8 @@
             },
             {
                 "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -3252,6 +3679,7 @@
         "produce": [
             {
                 "id": "Desc_SteelIngot_C",
+                "name": "Steel Ingot",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -3263,6 +3691,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -3272,6 +3702,8 @@
             },
             {
                 "id": "Desc_PetroleumCoke_C",
+                "raw": false,
+                "name": "Petroleum Coke",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -3289,6 +3721,7 @@
         "produce": [
             {
                 "id": "Desc_IronPlate_C",
+                "name": "Iron Plate",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -3300,6 +3733,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -3309,6 +3744,8 @@
             },
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3326,6 +3763,7 @@
         "produce": [
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -3337,6 +3775,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3346,6 +3786,8 @@
             },
             {
                 "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3363,6 +3805,7 @@
         "produce": [
             {
                 "id": "Desc_Cable_C",
+                "name": "Cable",
                 "amountRaw": "9",
                 "amount": "9",
                 "perMinute": {
@@ -3374,6 +3817,8 @@
         "ingredients": [
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -3383,6 +3828,8 @@
             },
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -3400,6 +3847,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrame_C",
+                "name": "Modular Frame",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3411,6 +3859,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -3420,6 +3870,8 @@
             },
             {
                 "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
                 "amountRaw": "56",
                 "amount": "56",
                 "perMinute": {
@@ -3437,6 +3889,7 @@
         "produce": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3448,6 +3901,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -3457,6 +3912,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3474,6 +3931,7 @@
         "produce": [
             {
                 "id": "Desc_MotorLightweight_C",
+                "name": "Turbo Motor",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3485,6 +3943,8 @@
         "ingredients": [
             {
                 "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -3494,6 +3954,8 @@
             },
             {
                 "id": "Desc_PressureConversionCube_C",
+                "raw": false,
+                "name": "Pressure Conversion Cube",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3503,6 +3965,8 @@
             },
             {
                 "id": "Desc_PackagedNitrogenGas_C",
+                "raw": false,
+                "name": "Packaged Nitrogen Gas",
                 "amountRaw": "24",
                 "amount": "24",
                 "perMinute": {
@@ -3512,6 +3976,8 @@
             },
             {
                 "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
                 "amountRaw": "8",
                 "amount": "8",
                 "perMinute": {
@@ -3529,6 +3995,7 @@
         "produce": [
             {
                 "id": "Desc_PlutoniumCell_C",
+                "name": "Encased Plutonium Cell",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3540,6 +4007,8 @@
         "ingredients": [
             {
                 "id": "Desc_PlutoniumPellet_C",
+                "raw": false,
+                "name": "Plutonium Pellet",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3549,6 +4018,8 @@
             },
             {
                 "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -3566,6 +4037,7 @@
         "produce": [
             {
                 "id": "Desc_PressureConversionCube_C",
+                "name": "Pressure Conversion Cube",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3577,6 +4049,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrameFused_C",
+                "raw": false,
+                "name": "Fused Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3586,6 +4060,8 @@
             },
             {
                 "id": "Desc_ModularFrameLightweight_C",
+                "raw": false,
+                "name": "Radio Control Unit",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3603,6 +4079,7 @@
         "produce": [
             {
                 "id": "Desc_CopperDust_C",
+                "name": "Copper Powder",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -3614,6 +4091,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "30",
                 "amount": "30",
                 "perMinute": {
@@ -3631,6 +4110,7 @@
         "produce": [
             {
                 "id": "Desc_PlutoniumPellet_C",
+                "name": "Plutonium Pellet",
                 "amountRaw": "30",
                 "amount": "30",
                 "perMinute": {
@@ -3642,6 +4122,8 @@
         "ingredients": [
             {
                 "id": "Desc_NonFissibleUranium_C",
+                "raw": false,
+                "name": "Non-fissile Uranium",
                 "amountRaw": "100",
                 "amount": "100",
                 "perMinute": {
@@ -3651,6 +4133,8 @@
             },
             {
                 "id": "Desc_NuclearWaste_C",
+                "raw": false,
+                "name": "Uranium Waste",
                 "amountRaw": "25",
                 "amount": "25",
                 "perMinute": {
@@ -3668,6 +4152,7 @@
         "produce": [
             {
                 "id": "Desc_PlutoniumFuelRod_C",
+                "name": "Plutonium Fuel Rod",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3679,6 +4164,8 @@
         "ingredients": [
             {
                 "id": "Desc_PlutoniumCell_C",
+                "raw": false,
+                "name": "Encased Plutonium Cell",
                 "amountRaw": "30",
                 "amount": "30",
                 "perMinute": {
@@ -3688,6 +4175,8 @@
             },
             {
                 "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
                 "amountRaw": "18",
                 "amount": "18",
                 "perMinute": {
@@ -3697,6 +4186,8 @@
             },
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -3706,6 +4197,8 @@
             },
             {
                 "id": "Desc_AluminumPlateReinforced_C",
+                "raw": false,
+                "name": "Heat Sink",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -3723,6 +4216,7 @@
         "produce": [
             {
                 "id": "Desc_PackagedNitricAcid_C",
+                "name": "Packaged Nitric Acid",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3734,6 +4228,8 @@
         "ingredients": [
             {
                 "id": "Desc_NitricAcid_C",
+                "raw": false,
+                "name": "Nitric Acid",
                 "amountRaw": "1000",
                 "amount": 1,
                 "perMinute": {
@@ -3743,6 +4239,8 @@
             },
             {
                 "id": "Desc_GasTank_C",
+                "raw": false,
+                "name": "Empty Fluid Tank",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3760,6 +4258,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_9_C",
+                "name": "Nuclear Pasta",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3771,6 +4270,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperDust_C",
+                "raw": false,
+                "name": "Copper Powder",
                 "amountRaw": "200",
                 "amount": "200",
                 "perMinute": {
@@ -3780,6 +4281,8 @@
             },
             {
                 "id": "Desc_PressureConversionCube_C",
+                "raw": false,
+                "name": "Pressure Conversion Cube",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3797,6 +4300,7 @@
         "produce": [
             {
                 "id": "Desc_NitricAcid_C",
+                "name": "Nitric Acid",
                 "amountRaw": "1000",
                 "amount": 1,
                 "perMinute": {
@@ -3806,6 +4310,7 @@
             },
             {
                 "id": "Desc_GasTank_C",
+                "name": "Empty Fluid Tank",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3817,6 +4322,8 @@
         "ingredients": [
             {
                 "id": "Desc_PackagedNitricAcid_C",
+                "raw": false,
+                "name": "Packaged Nitric Acid",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3834,6 +4341,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidTurboFuel_C",
+                "name": "Turbofuel",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -3845,6 +4353,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -3854,6 +4364,8 @@
             },
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "4000",
                 "amount": 4,
                 "perMinute": {
@@ -3863,6 +4375,8 @@
             },
             {
                 "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -3872,6 +4386,8 @@
             },
             {
                 "id": "Desc_PetroleumCoke_C",
+                "raw": false,
+                "name": "Petroleum Coke",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -3889,6 +4405,7 @@
         "produce": [
             {
                 "id": "Desc_ComputerSuper_C",
+                "name": "Supercomputer",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3900,6 +4417,8 @@
         "ingredients": [
             {
                 "id": "Desc_Computer_C",
+                "raw": false,
+                "name": "Computer",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -3909,6 +4428,8 @@
             },
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -3918,6 +4439,8 @@
             },
             {
                 "id": "Desc_Battery_C",
+                "raw": false,
+                "name": "Battery",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -3927,6 +4450,8 @@
             },
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "45",
                 "amount": "45",
                 "perMinute": {
@@ -3944,6 +4469,7 @@
         "produce": [
             {
                 "id": "Desc_Battery_C",
+                "name": "Battery",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3953,6 +4479,7 @@
             },
             {
                 "id": "Desc_Water_C",
+                "name": "Water",
                 "amountRaw": "1500",
                 "amount": 1.5,
                 "perMinute": {
@@ -3964,6 +4491,8 @@
         "ingredients": [
             {
                 "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
                 "amountRaw": "2500",
                 "amount": 2.5,
                 "perMinute": {
@@ -3973,6 +4502,8 @@
             },
             {
                 "id": "Desc_AluminaSolution_C",
+                "raw": false,
+                "name": "Alumina Solution",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -3982,6 +4513,8 @@
             },
             {
                 "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -3999,6 +4532,7 @@
         "produce": [
             {
                 "id": "Desc_ComputerSuper_C",
+                "name": "Supercomputer",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4010,6 +4544,8 @@
         "ingredients": [
             {
                 "id": "Desc_Computer_C",
+                "raw": false,
+                "name": "Computer",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4019,6 +4555,8 @@
             },
             {
                 "id": "Desc_CircuitBoardHighSpeed_C",
+                "raw": false,
+                "name": "AI Limiter",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4028,6 +4566,8 @@
             },
             {
                 "id": "Desc_HighSpeedConnector_C",
+                "raw": false,
+                "name": "High-Speed Connector",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -4037,6 +4577,8 @@
             },
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "28",
                 "amount": "28",
                 "perMinute": {
@@ -4054,6 +4596,7 @@
         "produce": [
             {
                 "id": "Desc_SulfuricAcid_C",
+                "name": "Sulfuric Acid",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -4065,6 +4608,8 @@
         "ingredients": [
             {
                 "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -4074,6 +4619,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -4091,6 +4638,7 @@
         "produce": [
             {
                 "id": "Desc_PackagedSulfuricAcid_C",
+                "name": "Packaged Sulfuric Acid",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4102,6 +4650,8 @@
         "ingredients": [
             {
                 "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
                 "amountRaw": "2000",
                 "amount": 2,
                 "perMinute": {
@@ -4111,6 +4661,8 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4128,6 +4680,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_7_C",
+                "name": "Assembly Director System",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4139,6 +4692,8 @@
         "ingredients": [
             {
                 "id": "Desc_SpaceElevatorPart_5_C",
+                "raw": false,
+                "name": "Adaptive Control Unit",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4148,6 +4703,8 @@
             },
             {
                 "id": "Desc_ComputerSuper_C",
+                "raw": false,
+                "name": "Supercomputer",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4165,6 +4722,7 @@
         "produce": [
             {
                 "id": "Desc_HighSpeedConnector_C",
+                "name": "High-Speed Connector",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4176,6 +4734,8 @@
         "ingredients": [
             {
                 "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
                 "amountRaw": "56",
                 "amount": "56",
                 "perMinute": {
@@ -4185,6 +4745,8 @@
             },
             {
                 "id": "Desc_Cable_C",
+                "raw": false,
+                "name": "Cable",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -4194,6 +4756,8 @@
             },
             {
                 "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4211,6 +4775,7 @@
         "produce": [
             {
                 "id": "Desc_SulfuricAcid_C",
+                "name": "Sulfuric Acid",
                 "amountRaw": "1000",
                 "amount": 1,
                 "perMinute": {
@@ -4220,6 +4785,7 @@
             },
             {
                 "id": "Desc_FluidCanister_C",
+                "name": "Empty Canister",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4231,6 +4797,8 @@
         "ingredients": [
             {
                 "id": "Desc_PackagedSulfuricAcid_C",
+                "raw": false,
+                "name": "Packaged Sulfuric Acid",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4248,6 +4816,7 @@
         "produce": [
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4259,6 +4828,8 @@
         "ingredients": [
             {
                 "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -4268,6 +4839,8 @@
             },
             {
                 "id": "Desc_CircuitBoardHighSpeed_C",
+                "raw": false,
+                "name": "AI Limiter",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4285,6 +4858,7 @@
         "produce": [
             {
                 "id": "Desc_NuclearFuelRod_C",
+                "name": "Uranium Fuel Rod",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4296,6 +4870,8 @@
         "ingredients": [
             {
                 "id": "Desc_UraniumCell_C",
+                "raw": false,
+                "name": "Encased Uranium Cell",
                 "amountRaw": "50",
                 "amount": "50",
                 "perMinute": {
@@ -4305,6 +4881,8 @@
             },
             {
                 "id": "Desc_SteelPlateReinforced_C",
+                "raw": false,
+                "name": "Encased Industrial Beam",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -4314,6 +4892,8 @@
             },
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -4331,6 +4911,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_6_C",
+                "name": "Magnetic Field Generator",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4342,6 +4923,8 @@
         "ingredients": [
             {
                 "id": "Desc_SpaceElevatorPart_2_C",
+                "raw": false,
+                "name": "Versatile Framework",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -4351,6 +4934,8 @@
             },
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4360,6 +4945,8 @@
             },
             {
                 "id": "Desc_Battery_C",
+                "raw": false,
+                "name": "Battery",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -4377,6 +4964,7 @@
         "produce": [
             {
                 "id": "Desc_AluminaSolution_C",
+                "name": "Alumina Solution",
                 "amountRaw": "12000",
                 "amount": 12,
                 "perMinute": {
@@ -4388,6 +4976,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreBauxite_C",
+                "raw": true,
+                "name": "Bauxite",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -4397,6 +4987,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "10000",
                 "amount": 10,
                 "perMinute": {
@@ -4414,6 +5006,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrameLightweight_C",
+                "name": "Radio Control Unit",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -4425,6 +5018,8 @@
         "ingredients": [
             {
                 "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4434,6 +5029,8 @@
             },
             {
                 "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -4443,6 +5040,8 @@
             },
             {
                 "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
                 "amountRaw": "60",
                 "amount": "60",
                 "perMinute": {
@@ -4452,6 +5051,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "30",
                 "amount": "30",
                 "perMinute": {
@@ -4469,6 +5070,7 @@
         "produce": [
             {
                 "id": "Desc_PlutoniumFuelRod_C",
+                "name": "Plutonium Fuel Rod",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4480,6 +5082,8 @@
         "ingredients": [
             {
                 "id": "Desc_PlutoniumCell_C",
+                "raw": false,
+                "name": "Encased Plutonium Cell",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -4489,6 +5093,8 @@
             },
             {
                 "id": "Desc_PressureConversionCube_C",
+                "raw": false,
+                "name": "Pressure Conversion Cube",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4506,6 +5112,7 @@
         "produce": [
             {
                 "id": "Desc_ComputerSuper_C",
+                "name": "Supercomputer",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4517,6 +5124,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrameLightweight_C",
+                "raw": false,
+                "name": "Radio Control Unit",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -4526,6 +5135,8 @@
             },
             {
                 "id": "Desc_CoolingSystem_C",
+                "raw": false,
+                "name": "Cooling System",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -4543,6 +5154,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumPlateReinforced_C",
+                "name": "Heat Sink",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4554,6 +5166,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumPlate_C",
+                "raw": false,
+                "name": "Alclad Aluminum Sheet",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -4563,6 +5177,8 @@
             },
             {
                 "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -4580,6 +5196,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrameFused_C",
+                "name": "Fused Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4591,6 +5208,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrameHeavy_C",
+                "raw": false,
+                "name": "Heavy Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4600,6 +5219,8 @@
             },
             {
                 "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
                 "amountRaw": "50",
                 "amount": "50",
                 "perMinute": {
@@ -4609,6 +5230,8 @@
             },
             {
                 "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
                 "amountRaw": "25000",
                 "amount": "25000",
                 "perMinute": {
@@ -4626,6 +5249,7 @@
         "produce": [
             {
                 "id": "Desc_GasTank_C",
+                "name": "Empty Fluid Tank",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4637,6 +5261,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4654,6 +5280,7 @@
         "produce": [
             {
                 "id": "Desc_PackagedNitrogenGas_C",
+                "name": "Packaged Nitrogen Gas",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4665,6 +5292,8 @@
         "ingredients": [
             {
                 "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
                 "amountRaw": "4000",
                 "amount": "4000",
                 "perMinute": {
@@ -4674,6 +5303,8 @@
             },
             {
                 "id": "Desc_GasTank_C",
+                "raw": false,
+                "name": "Empty Fluid Tank",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4691,6 +5322,7 @@
         "produce": [
             {
                 "id": "Desc_NitrogenGas_C",
+                "name": "Nitrogen Gas",
                 "amountRaw": "4000",
                 "amount": "4000",
                 "perMinute": {
@@ -4700,6 +5332,7 @@
             },
             {
                 "id": "Desc_GasTank_C",
+                "name": "Empty Fluid Tank",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4711,6 +5344,8 @@
         "ingredients": [
             {
                 "id": "Desc_PackagedNitrogenGas_C",
+                "raw": false,
+                "name": "Packaged Nitrogen Gas",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4728,6 +5363,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumScrap_C",
+                "name": "Aluminum Scrap",
                 "amountRaw": "30",
                 "amount": "30",
                 "perMinute": {
@@ -4737,6 +5373,7 @@
             },
             {
                 "id": "Desc_Water_C",
+                "name": "Water",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -4748,6 +5385,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreBauxite_C",
+                "raw": true,
+                "name": "Bauxite",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -4757,6 +5396,8 @@
             },
             {
                 "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -4766,6 +5407,8 @@
             },
             {
                 "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -4775,6 +5418,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -4792,6 +5437,7 @@
         "produce": [
             {
                 "id": "Desc_PlutoniumCell_C",
+                "name": "Encased Plutonium Cell",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -4803,6 +5449,8 @@
         "ingredients": [
             {
                 "id": "Desc_NonFissibleUranium_C",
+                "raw": false,
+                "name": "Non-fissile Uranium",
                 "amountRaw": "150",
                 "amount": "150",
                 "perMinute": {
@@ -4812,6 +5460,8 @@
             },
             {
                 "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -4829,6 +5479,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrameFused_C",
+                "name": "Fused Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4840,6 +5491,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrameHeavy_C",
+                "raw": false,
+                "name": "Heavy Modular Frame",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4849,6 +5502,8 @@
             },
             {
                 "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
                 "amountRaw": "50",
                 "amount": "50",
                 "perMinute": {
@@ -4858,6 +5513,8 @@
             },
             {
                 "id": "Desc_NitricAcid_C",
+                "raw": false,
+                "name": "Nitric Acid",
                 "amountRaw": "8000",
                 "amount": 8,
                 "perMinute": {
@@ -4867,6 +5524,8 @@
             },
             {
                 "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
                 "amountRaw": "10000",
                 "amount": 10,
                 "perMinute": {
@@ -4884,6 +5543,7 @@
         "produce": [
             {
                 "id": "Desc_NonFissibleUranium_C",
+                "name": "Non-fissile Uranium",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -4893,6 +5553,7 @@
             },
             {
                 "id": "Desc_Water_C",
+                "name": "Water",
                 "amountRaw": "8000",
                 "amount": 8,
                 "perMinute": {
@@ -4904,6 +5565,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreUranium_C",
+                "raw": true,
+                "name": "Uranium",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -4913,6 +5576,8 @@
             },
             {
                 "id": "Desc_NuclearWaste_C",
+                "raw": false,
+                "name": "Uranium Waste",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -4922,6 +5587,8 @@
             },
             {
                 "id": "Desc_NitricAcid_C",
+                "raw": false,
+                "name": "Nitric Acid",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -4931,6 +5598,8 @@
             },
             {
                 "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -4948,6 +5617,7 @@
         "produce": [
             {
                 "id": "Desc_Motor_C",
+                "name": "Motor",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4959,6 +5629,8 @@
         "ingredients": [
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -4968,6 +5640,8 @@
             },
             {
                 "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -4985,6 +5659,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidFuel_C",
+                "name": "Fuel",
                 "amountRaw": "10000",
                 "amount": 10,
                 "perMinute": {
@@ -4996,6 +5671,8 @@
         "ingredients": [
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -5005,6 +5682,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "10000",
                 "amount": 10,
                 "perMinute": {
@@ -5022,6 +5701,7 @@
         "produce": [
             {
                 "id": "Desc_CoolingSystem_C",
+                "name": "Cooling System",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5033,6 +5713,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumPlateReinforced_C",
+                "raw": false,
+                "name": "Heat Sink",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5042,6 +5724,8 @@
             },
             {
                 "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5051,6 +5735,8 @@
             },
             {
                 "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
                 "amountRaw": "24000",
                 "amount": "24000",
                 "perMinute": {
@@ -5068,6 +5754,7 @@
         "produce": [
             {
                 "id": "Desc_Battery_C",
+                "name": "Battery",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5079,6 +5766,8 @@
         "ingredients": [
             {
                 "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -5088,6 +5777,8 @@
             },
             {
                 "id": "Desc_AluminumPlate_C",
+                "raw": false,
+                "name": "Alclad Aluminum Sheet",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -5097,6 +5788,8 @@
             },
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "8",
                 "amount": "8",
                 "perMinute": {
@@ -5106,6 +5799,8 @@
             },
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -5123,6 +5818,7 @@
         "produce": [
             {
                 "id": "BP_ItemDescriptorPortableMiner_C",
+                "name": "Portable Miner",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5134,6 +5830,8 @@
         "ingredients": [
             {
                 "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5143,6 +5841,8 @@
             },
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5152,6 +5852,8 @@
             },
             {
                 "id": "Desc_IronRod_C",
+                "raw": false,
+                "name": "Iron Rod",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5161,6 +5863,8 @@
             },
             {
                 "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5178,6 +5882,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumCasing_C",
+                "name": "Aluminum Casing",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -5189,6 +5894,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -5198,6 +5905,8 @@
             },
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -5215,6 +5924,7 @@
         "produce": [
             {
                 "id": "Desc_Wire_C",
+                "name": "Wire",
                 "amountRaw": "8",
                 "amount": "8",
                 "perMinute": {
@@ -5226,6 +5936,8 @@
         "ingredients": [
             {
                 "id": "Desc_GoldIngot_C",
+                "raw": false,
+                "name": "Caterium Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5243,6 +5955,7 @@
         "produce": [
             {
                 "id": "Desc_Wire_C",
+                "name": "Wire",
                 "amountRaw": "9",
                 "amount": "9",
                 "perMinute": {
@@ -5254,6 +5967,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5271,6 +5986,7 @@
         "produce": [
             {
                 "id": "Desc_UraniumCell_C",
+                "name": "Encased Uranium Cell",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5282,6 +5998,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreUranium_C",
+                "raw": true,
+                "name": "Uranium",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5291,6 +6009,8 @@
             },
             {
                 "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -5300,6 +6020,8 @@
             },
             {
                 "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5309,6 +6031,8 @@
             },
             {
                 "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -5326,6 +6050,7 @@
         "produce": [
             {
                 "id": "Desc_GoldIngot_C",
+                "name": "Caterium Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5337,6 +6062,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreGold_C",
+                "raw": true,
+                "name": "Caterium Ore",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -5354,6 +6081,7 @@
         "produce": [
             {
                 "id": "Desc_MotorLightweight_C",
+                "name": "Turbo Motor",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -5365,6 +6093,8 @@
         "ingredients": [
             {
                 "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -5374,6 +6104,8 @@
             },
             {
                 "id": "Desc_ModularFrameLightweight_C",
+                "raw": false,
+                "name": "Radio Control Unit",
                 "amountRaw": "9",
                 "amount": "9",
                 "perMinute": {
@@ -5383,6 +6115,8 @@
             },
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5392,6 +6126,8 @@
             },
             {
                 "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -5409,6 +6145,7 @@
         "produce": [
             {
                 "id": "Desc_MotorLightweight_C",
+                "name": "Turbo Motor",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5420,6 +6157,8 @@
         "ingredients": [
             {
                 "id": "Desc_CoolingSystem_C",
+                "raw": false,
+                "name": "Cooling System",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5429,6 +6168,8 @@
             },
             {
                 "id": "Desc_ModularFrameLightweight_C",
+                "raw": false,
+                "name": "Radio Control Unit",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5438,6 +6179,8 @@
             },
             {
                 "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5447,6 +6190,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "24",
                 "amount": "24",
                 "perMinute": {
@@ -5464,6 +6209,7 @@
         "produce": [
             {
                 "id": "Desc_SpaceElevatorPart_8_C",
+                "name": "Thermal Propulsion Rocket",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5475,6 +6221,8 @@
         "ingredients": [
             {
                 "id": "Desc_SpaceElevatorPart_4_C",
+                "raw": false,
+                "name": "Modular Engine",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5484,6 +6232,8 @@
             },
             {
                 "id": "Desc_MotorLightweight_C",
+                "raw": false,
+                "name": "Turbo Motor",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5493,6 +6243,8 @@
             },
             {
                 "id": "Desc_CoolingSystem_C",
+                "raw": false,
+                "name": "Cooling System",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -5502,6 +6254,8 @@
             },
             {
                 "id": "Desc_ModularFrameFused_C",
+                "raw": false,
+                "name": "Fused Modular Frame",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5519,6 +6273,7 @@
         "produce": [
             {
                 "id": "Desc_LiquidTurboFuel_C",
+                "name": "Turbofuel",
                 "amountRaw": "5000",
                 "amount": 5,
                 "perMinute": {
@@ -5530,6 +6285,8 @@
         "ingredients": [
             {
                 "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -5539,6 +6296,8 @@
             },
             {
                 "id": "Desc_CompactedCoal_C",
+                "raw": false,
+                "name": "Compacted Coal",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5556,6 +6315,7 @@
         "produce": [
             {
                 "id": "Desc_Stator_C",
+                "name": "Stator",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5567,6 +6327,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5576,6 +6338,8 @@
             },
             {
                 "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -5593,6 +6357,7 @@
         "produce": [
             {
                 "id": "Desc_Silica_C",
+                "name": "Silica",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -5604,6 +6369,8 @@
         "ingredients": [
             {
                 "id": "Desc_RawQuartz_C",
+                "raw": true,
+                "name": "Raw Quartz",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -5613,6 +6380,8 @@
             },
             {
                 "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5630,6 +6399,7 @@
         "produce": [
             {
                 "id": "Desc_IronScrew_C",
+                "name": "Screw",
                 "amountRaw": "52",
                 "amount": "52",
                 "perMinute": {
@@ -5641,6 +6411,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5658,6 +6430,7 @@
         "produce": [
             {
                 "id": "Desc_IronScrew_C",
+                "name": "Screw",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -5669,6 +6442,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5686,6 +6461,7 @@
         "produce": [
             {
                 "id": "Desc_Rotor_C",
+                "name": "Rotor",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5697,6 +6473,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5706,6 +6484,8 @@
             },
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -5723,6 +6503,7 @@
         "produce": [
             {
                 "id": "Desc_SteelPlateReinforced_C",
+                "name": "Encased Industrial Beam",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5734,6 +6515,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -5743,6 +6526,8 @@
             },
             {
                 "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5760,6 +6545,7 @@
         "produce": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -5771,6 +6557,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -5780,6 +6568,8 @@
             },
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -5797,6 +6587,7 @@
         "produce": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -5808,6 +6599,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
                 "amountRaw": "18",
                 "amount": "18",
                 "perMinute": {
@@ -5817,6 +6610,8 @@
             },
             {
                 "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
                 "amountRaw": "50",
                 "amount": "50",
                 "perMinute": {
@@ -5834,6 +6629,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrameLightweight_C",
+                "name": "Radio Control Unit",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5845,6 +6641,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumPlateReinforced_C",
+                "raw": false,
+                "name": "Heat Sink",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -5854,6 +6652,8 @@
             },
             {
                 "id": "Desc_HighSpeedConnector_C",
+                "raw": false,
+                "name": "High-Speed Connector",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -5863,6 +6663,8 @@
             },
             {
                 "id": "Desc_QuartzCrystal_C",
+                "raw": false,
+                "name": "Quartz Crystal",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -5880,6 +6682,7 @@
         "produce": [
             {
                 "id": "Desc_HighSpeedWire_C",
+                "name": "Quickwire",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -5891,6 +6694,8 @@
         "ingredients": [
             {
                 "id": "Desc_GoldIngot_C",
+                "raw": false,
+                "name": "Caterium Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -5900,6 +6705,8 @@
             },
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -5917,6 +6724,7 @@
         "produce": [
             {
                 "id": "Desc_Plastic_C",
+                "name": "Plastic",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -5928,6 +6736,8 @@
         "ingredients": [
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -5937,6 +6747,8 @@
             },
             {
                 "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
                 "amountRaw": "6000",
                 "amount": 6,
                 "perMinute": {
@@ -5954,6 +6766,7 @@
         "produce": [
             {
                 "id": "Desc_NuclearFuelRod_C",
+                "name": "Uranium Fuel Rod",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -5965,6 +6778,8 @@
         "ingredients": [
             {
                 "id": "Desc_UraniumCell_C",
+                "raw": false,
+                "name": "Encased Uranium Cell",
                 "amountRaw": "100",
                 "amount": "100",
                 "perMinute": {
@@ -5974,6 +6789,8 @@
             },
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -5983,6 +6800,8 @@
             },
             {
                 "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -5992,6 +6811,8 @@
             },
             {
                 "id": "BP_EquipmentDescriptorBeacon_C",
+                "raw": false,
+                "name": "Beacon",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -6009,6 +6830,7 @@
         "produce": [
             {
                 "id": "Desc_Motor_C",
+                "name": "Motor",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -6020,6 +6842,8 @@
         "ingredients": [
             {
                 "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6029,6 +6853,8 @@
             },
             {
                 "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6038,6 +6864,8 @@
             },
             {
                 "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6055,6 +6883,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrame_C",
+                "name": "Modular Frame",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6066,6 +6895,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6075,6 +6906,8 @@
             },
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -6092,6 +6925,7 @@
         "produce": [
             {
                 "id": "Desc_SteelIngot_C",
+                "name": "Steel Ingot",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -6103,6 +6937,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -6112,6 +6948,8 @@
             },
             {
                 "id": "Desc_CompactedCoal_C",
+                "raw": false,
+                "name": "Compacted Coal",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6129,6 +6967,7 @@
         "produce": [
             {
                 "id": "Desc_SteelIngot_C",
+                "name": "Steel Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6140,6 +6979,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6149,6 +6990,8 @@
             },
             {
                 "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6166,6 +7009,7 @@
         "produce": [
             {
                 "id": "Desc_IronIngot_C",
+                "name": "Iron Ingot",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -6177,6 +7021,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6186,6 +7032,8 @@
             },
             {
                 "id": "Desc_OreCopper_C",
+                "raw": true,
+                "name": "Copper Ore",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6203,6 +7051,7 @@
         "produce": [
             {
                 "id": "Desc_HighSpeedConnector_C",
+                "name": "High-Speed Connector",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6214,6 +7063,8 @@
         "ingredients": [
             {
                 "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
                 "amountRaw": "60",
                 "amount": "60",
                 "perMinute": {
@@ -6223,6 +7074,8 @@
             },
             {
                 "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
                 "amountRaw": "25",
                 "amount": "25",
                 "perMinute": {
@@ -6232,6 +7085,8 @@
             },
             {
                 "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6249,6 +7104,7 @@
         "produce": [
             {
                 "id": "Desc_ModularFrameHeavy_C",
+                "name": "Heavy Modular Frame",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6260,6 +7116,8 @@
         "ingredients": [
             {
                 "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
                 "amountRaw": "8",
                 "amount": "8",
                 "perMinute": {
@@ -6269,6 +7127,8 @@
             },
             {
                 "id": "Desc_SteelPlateReinforced_C",
+                "raw": false,
+                "name": "Encased Industrial Beam",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -6278,6 +7138,8 @@
             },
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "36",
                 "amount": "36",
                 "perMinute": {
@@ -6287,6 +7149,8 @@
             },
             {
                 "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
                 "amountRaw": "22",
                 "amount": "22",
                 "perMinute": {
@@ -6304,6 +7168,7 @@
         "produce": [
             {
                 "id": "Desc_AluminumPlateReinforced_C",
+                "name": "Heat Sink",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6315,6 +7180,8 @@
         "ingredients": [
             {
                 "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6324,6 +7191,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6341,6 +7210,7 @@
         "produce": [
             {
                 "id": "Desc_Gunpowder_C",
+                "name": "Black Powder",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -6352,6 +7222,8 @@
         "ingredients": [
             {
                 "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6361,6 +7233,8 @@
             },
             {
                 "id": "Desc_CompactedCoal_C",
+                "raw": false,
+                "name": "Compacted Coal",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6378,6 +7252,7 @@
         "produce": [
             {
                 "id": "Desc_ElectromagneticControlRod_C",
+                "name": "Electromagnetic Control Rod",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6389,6 +7264,8 @@
         "ingredients": [
             {
                 "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6398,6 +7275,8 @@
             },
             {
                 "id": "Desc_HighSpeedConnector_C",
+                "raw": false,
+                "name": "High-Speed Connector",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6415,6 +7294,7 @@
         "produce": [
             {
                 "id": "Desc_CrystalOscillator_C",
+                "name": "Crystal Oscillator",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6426,6 +7306,8 @@
         "ingredients": [
             {
                 "id": "Desc_QuartzCrystal_C",
+                "raw": false,
+                "name": "Quartz Crystal",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -6435,6 +7317,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -6444,6 +7328,8 @@
             },
             {
                 "id": "Desc_CircuitBoardHighSpeed_C",
+                "raw": false,
+                "name": "AI Limiter",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6461,6 +7347,7 @@
         "produce": [
             {
                 "id": "Desc_Cement_C",
+                "name": "Concrete",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -6472,6 +7359,8 @@
         "ingredients": [
             {
                 "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6481,6 +7370,8 @@
             },
             {
                 "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -6498,6 +7389,7 @@
         "produce": [
             {
                 "id": "Desc_Computer_C",
+                "name": "Computer",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6509,6 +7401,8 @@
         "ingredients": [
             {
                 "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
                 "amountRaw": "8",
                 "amount": "8",
                 "perMinute": {
@@ -6518,6 +7412,8 @@
             },
             {
                 "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6535,6 +7431,7 @@
         "produce": [
             {
                 "id": "Desc_Computer_C",
+                "name": "Computer",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6546,6 +7443,8 @@
         "ingredients": [
             {
                 "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -6555,6 +7454,8 @@
             },
             {
                 "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
                 "amountRaw": "28",
                 "amount": "28",
                 "perMinute": {
@@ -6564,6 +7465,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -6581,6 +7484,7 @@
         "produce": [
             {
                 "id": "Desc_CircuitBoard_C",
+                "name": "Circuit Board",
                 "amountRaw": "7",
                 "amount": "7",
                 "perMinute": {
@@ -6592,6 +7496,8 @@
         "ingredients": [
             {
                 "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -6601,6 +7507,8 @@
             },
             {
                 "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
                 "amountRaw": "30",
                 "amount": "30",
                 "perMinute": {
@@ -6618,6 +7526,7 @@
         "produce": [
             {
                 "id": "Desc_CircuitBoard_C",
+                "name": "Circuit Board",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -6629,6 +7538,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
                 "amountRaw": "11",
                 "amount": "11",
                 "perMinute": {
@@ -6638,6 +7549,8 @@
             },
             {
                 "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
                 "amountRaw": "11",
                 "amount": "11",
                 "perMinute": {
@@ -6655,6 +7568,7 @@
         "produce": [
             {
                 "id": "Desc_Cable_C",
+                "name": "Cable",
                 "amountRaw": "11",
                 "amount": "11",
                 "perMinute": {
@@ -6666,6 +7580,8 @@
         "ingredients": [
             {
                 "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -6675,6 +7591,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -6692,6 +7610,7 @@
         "produce": [
             {
                 "id": "Desc_Cable_C",
+                "name": "Cable",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -6703,6 +7622,8 @@
         "ingredients": [
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "9",
                 "amount": "9",
                 "perMinute": {
@@ -6712,6 +7633,8 @@
             },
             {
                 "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -6729,6 +7652,7 @@
         "produce": [
             {
                 "id": "BP_EquipmentDescriptorBeacon_C",
+                "name": "Beacon",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -6740,6 +7664,8 @@
         "ingredients": [
             {
                 "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -6749,6 +7675,8 @@
             },
             {
                 "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
                 "amountRaw": "16",
                 "amount": "16",
                 "perMinute": {
@@ -6758,6 +7686,8 @@
             },
             {
                 "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6775,6 +7705,7 @@
         "produce": [
             {
                 "id": "Desc_Biofuel_C",
+                "name": "Solid Biofuel",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -6786,6 +7717,8 @@
         "ingredients": [
             {
                 "id": "Desc_GenericBiomass_C",
+                "raw": false,
+                "name": "Biomass",
                 "amountRaw": "8",
                 "amount": "8",
                 "perMinute": {
@@ -6803,6 +7736,7 @@
         "produce": [
             {
                 "id": "Desc_AlienProtein_C",
+                "name": "Alien Protein",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6814,6 +7748,8 @@
         "ingredients": [
             {
                 "id": "Desc_StingerParts_C",
+                "raw": false,
+                "name": "Stinger Remains",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6831,6 +7767,7 @@
         "produce": [
             {
                 "id": "Desc_AlienProtein_C",
+                "name": "Alien Protein",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6842,6 +7779,8 @@
         "ingredients": [
             {
                 "id": "Desc_SpitterParts_C",
+                "raw": false,
+                "name": "Plasma Spitter Remains",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6859,6 +7798,7 @@
         "produce": [
             {
                 "id": "Desc_AlienProtein_C",
+                "name": "Alien Protein",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6870,6 +7810,8 @@
         "ingredients": [
             {
                 "id": "Desc_HogParts_C",
+                "raw": false,
+                "name": "Hog Remains",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6887,6 +7829,7 @@
         "produce": [
             {
                 "id": "Desc_AlienProtein_C",
+                "name": "Alien Protein",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6898,6 +7841,8 @@
         "ingredients": [
             {
                 "id": "Desc_HatcherParts_C",
+                "raw": false,
+                "name": "Hatcher Remains",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6915,6 +7860,7 @@
         "produce": [
             {
                 "id": "Desc_AlienDNACapsule_C",
+                "name": "Alien DNA Capsule",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6926,6 +7872,8 @@
         "ingredients": [
             {
                 "id": "Desc_AlienProtein_C",
+                "raw": false,
+                "name": "Alien Protein",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6943,6 +7891,7 @@
         "produce": [
             {
                 "id": "Desc_GenericBiomass_C",
+                "name": "Biomass",
                 "amountRaw": "100",
                 "amount": "100",
                 "perMinute": {
@@ -6954,6 +7903,8 @@
         "ingredients": [
             {
                 "id": "Desc_AlienProtein_C",
+                "raw": false,
+                "name": "Alien Protein",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6971,6 +7922,7 @@
         "produce": [
             {
                 "id": "Desc_HighSpeedWire_C",
+                "name": "Quickwire",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -6982,6 +7934,8 @@
         "ingredients": [
             {
                 "id": "Desc_GoldIngot_C",
+                "raw": false,
+                "name": "Caterium Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -6999,6 +7953,7 @@
         "produce": [
             {
                 "id": "Desc_Fabric_C",
+                "name": "Fabric",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7010,6 +7965,8 @@
         "ingredients": [
             {
                 "id": "Desc_PolymerResin_C",
+                "raw": false,
+                "name": "Polymer Resin",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7019,6 +7976,8 @@
             },
             {
                 "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
                 "amountRaw": "1000",
                 "amount": 1,
                 "perMinute": {
@@ -7036,6 +7995,7 @@
         "produce": [
             {
                 "id": "Desc_Fabric_C",
+                "name": "Fabric",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7047,6 +8007,8 @@
         "ingredients": [
             {
                 "id": "Desc_Mycelia_C",
+                "raw": false,
+                "name": "Mycelia",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7056,6 +8018,8 @@
             },
             {
                 "id": "Desc_GenericBiomass_C",
+                "raw": false,
+                "name": "Biomass",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -7073,6 +8037,7 @@
         "produce": [
             {
                 "id": "Desc_GenericBiomass_C",
+                "name": "Biomass",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -7084,6 +8049,8 @@
         "ingredients": [
             {
                 "id": "Desc_Mycelia_C",
+                "raw": false,
+                "name": "Mycelia",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7101,6 +8068,7 @@
         "produce": [
             {
                 "id": "Desc_CrystalShard_C",
+                "name": "Power Shard",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -7112,6 +8080,8 @@
         "ingredients": [
             {
                 "id": "Desc_Crystal_mk3_C",
+                "raw": false,
+                "name": "Purple Power Slug",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7129,6 +8099,7 @@
         "produce": [
             {
                 "id": "Desc_CrystalShard_C",
+                "name": "Power Shard",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7140,6 +8111,8 @@
         "ingredients": [
             {
                 "id": "Desc_Crystal_mk2_C",
+                "raw": false,
+                "name": "Yellow Power Slug",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7157,6 +8130,7 @@
         "produce": [
             {
                 "id": "Desc_CrystalShard_C",
+                "name": "Power Shard",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7168,6 +8142,8 @@
         "ingredients": [
             {
                 "id": "Desc_Crystal_C",
+                "raw": false,
+                "name": "Blue Power Slug",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7185,6 +8161,7 @@
         "produce": [
             {
                 "id": "Desc_CartridgeChaos_C",
+                "name": "Turbo Rifle Ammo",
                 "amountRaw": "50",
                 "amount": "50",
                 "perMinute": {
@@ -7196,6 +8173,8 @@
         "ingredients": [
             {
                 "id": "Desc_CartridgeStandard_C",
+                "raw": false,
+                "name": "Rifle Ammo",
                 "amountRaw": "25",
                 "amount": "25",
                 "perMinute": {
@@ -7205,6 +8184,8 @@
             },
             {
                 "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -7214,6 +8195,8 @@
             },
             {
                 "id": "Desc_LiquidTurboFuel_C",
+                "raw": false,
+                "name": "Turbofuel",
                 "amountRaw": "3000",
                 "amount": 3,
                 "perMinute": {
@@ -7231,6 +8214,7 @@
         "produce": [
             {
                 "id": "Desc_GunpowderMK2_C",
+                "name": "Smokeless Powder",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7242,6 +8226,8 @@
         "ingredients": [
             {
                 "id": "Desc_Gunpowder_C",
+                "raw": false,
+                "name": "Black Powder",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7251,6 +8237,8 @@
             },
             {
                 "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
                 "amountRaw": "1000",
                 "amount": 1,
                 "perMinute": {
@@ -7268,6 +8256,7 @@
         "produce": [
             {
                 "id": "Desc_SnowballProjectile_C",
+                "name": "Snowball",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7279,6 +8268,8 @@
         "ingredients": [
             {
                 "id": "Desc_Snow_C",
+                "raw": false,
+                "name": "Actual Snow",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -7296,6 +8287,7 @@
         "produce": [
             {
                 "id": "Desc_XmasStar_C",
+                "name": "FICSMAS Wonder Star",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7307,6 +8299,8 @@
         "ingredients": [
             {
                 "id": "Desc_XmasWreath_C",
+                "raw": false,
+                "name": "FICSMAS Decoration",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -7316,6 +8310,8 @@
             },
             {
                 "id": "Desc_CandyCane_C",
+                "raw": false,
+                "name": "Candy Cane",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -7333,6 +8329,7 @@
         "produce": [
             {
                 "id": "Desc_XmasWreath_C",
+                "name": "FICSMAS Decoration",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7344,6 +8341,8 @@
         "ingredients": [
             {
                 "id": "Desc_XmasBranch_C",
+                "raw": false,
+                "name": "FICSMAS Tree Branch",
                 "amountRaw": "15",
                 "amount": "15",
                 "perMinute": {
@@ -7353,6 +8352,8 @@
             },
             {
                 "id": "Desc_XmasBallCluster_C",
+                "raw": false,
+                "name": "FICSMAS Ornament Bundle",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -7370,6 +8371,7 @@
         "produce": [
             {
                 "id": "Desc_XmasBallCluster_C",
+                "name": "FICSMAS Ornament Bundle",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7381,6 +8383,8 @@
         "ingredients": [
             {
                 "id": "Desc_XmasBall3_C",
+                "raw": false,
+                "name": "Copper FICSMAS Ornament",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7390,6 +8394,8 @@
             },
             {
                 "id": "Desc_XmasBall4_C",
+                "raw": false,
+                "name": "Iron FICSMAS Ornament",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7407,6 +8413,7 @@
         "produce": [
             {
                 "id": "Desc_XmasBall1_C",
+                "name": "Red FICSMAS Ornament",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7418,6 +8425,8 @@
         "ingredients": [
             {
                 "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7435,6 +8444,7 @@
         "produce": [
             {
                 "id": "Desc_XmasBall2_C",
+                "name": "Blue FICSMAS Ornament",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7446,6 +8456,8 @@
         "ingredients": [
             {
                 "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7463,6 +8475,7 @@
         "produce": [
             {
                 "id": "Desc_XmasBall3_C",
+                "name": "Copper FICSMAS Ornament",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7474,6 +8487,8 @@
         "ingredients": [
             {
                 "id": "Desc_XmasBall1_C",
+                "raw": false,
+                "name": "Red FICSMAS Ornament",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7483,6 +8498,8 @@
             },
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7500,6 +8517,7 @@
         "produce": [
             {
                 "id": "Desc_XmasBall4_C",
+                "name": "Iron FICSMAS Ornament",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7511,6 +8529,8 @@
         "ingredients": [
             {
                 "id": "Desc_XmasBall2_C",
+                "raw": false,
+                "name": "Blue FICSMAS Ornament",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -7520,6 +8540,8 @@
             },
             {
                 "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -7537,6 +8559,7 @@
         "produce": [
             {
                 "id": "Desc_Snow_C",
+                "name": "Actual Snow",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7548,6 +8571,8 @@
         "ingredients": [
             {
                 "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -7565,6 +8590,7 @@
         "produce": [
             {
                 "id": "Desc_XmasBranch_C",
+                "name": "FICSMAS Tree Branch",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7576,6 +8602,8 @@
         "ingredients": [
             {
                 "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7593,6 +8621,7 @@
         "produce": [
             {
                 "id": "Desc_XmasBow_C",
+                "name": "FICSMAS Bow",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7604,6 +8633,8 @@
         "ingredients": [
             {
                 "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7621,6 +8652,7 @@
         "produce": [
             {
                 "id": "Desc_CandyCane_C",
+                "name": "Candy Cane",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7632,6 +8664,8 @@
         "ingredients": [
             {
                 "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -7649,6 +8683,7 @@
         "produce": [
             {
                 "id": "Desc_GenericBiomass_C",
+                "name": "Biomass",
                 "amountRaw": "5",
                 "amount": "5",
                 "perMinute": {
@@ -7660,6 +8695,8 @@
         "ingredients": [
             {
                 "id": "Desc_Leaves_C",
+                "raw": false,
+                "name": "Leaves",
                 "amountRaw": "10",
                 "amount": "10",
                 "perMinute": {
@@ -7677,6 +8714,7 @@
         "produce": [
             {
                 "id": "Desc_GenericBiomass_C",
+                "name": "Biomass",
                 "amountRaw": "20",
                 "amount": "20",
                 "perMinute": {
@@ -7688,6 +8726,8 @@
         "ingredients": [
             {
                 "id": "Desc_Wood_C",
+                "raw": false,
+                "name": "Wood",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -7705,6 +8745,7 @@
         "produce": [
             {
                 "id": "Desc_IronPlateReinforced_C",
+                "name": "Reinforced Iron Plate",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7716,6 +8757,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
                 "amountRaw": "6",
                 "amount": "6",
                 "perMinute": {
@@ -7725,6 +8768,8 @@
             },
             {
                 "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
                 "amountRaw": "12",
                 "amount": "12",
                 "perMinute": {
@@ -7742,6 +8787,7 @@
         "produce": [
             {
                 "id": "Desc_Cement_C",
+                "name": "Concrete",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7753,6 +8799,8 @@
         "ingredients": [
             {
                 "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
                 "amountRaw": "3",
                 "amount": "3",
                 "perMinute": {
@@ -7770,6 +8818,7 @@
         "produce": [
             {
                 "id": "Desc_IronScrew_C",
+                "name": "Screw",
                 "amountRaw": "4",
                 "amount": "4",
                 "perMinute": {
@@ -7781,6 +8830,8 @@
         "ingredients": [
             {
                 "id": "Desc_IronRod_C",
+                "raw": false,
+                "name": "Iron Rod",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7798,6 +8849,7 @@
         "produce": [
             {
                 "id": "Desc_Cable_C",
+                "name": "Cable",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7809,6 +8861,8 @@
         "ingredients": [
             {
                 "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7826,6 +8880,7 @@
         "produce": [
             {
                 "id": "Desc_Wire_C",
+                "name": "Wire",
                 "amountRaw": "2",
                 "amount": "2",
                 "perMinute": {
@@ -7837,6 +8892,8 @@
         "ingredients": [
             {
                 "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7854,6 +8911,7 @@
         "produce": [
             {
                 "id": "Desc_CopperIngot_C",
+                "name": "Copper Ingot",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {
@@ -7865,6 +8923,8 @@
         "ingredients": [
             {
                 "id": "Desc_OreCopper_C",
+                "raw": true,
+                "name": "Copper Ore",
                 "amountRaw": "1",
                 "amount": "1",
                 "perMinute": {

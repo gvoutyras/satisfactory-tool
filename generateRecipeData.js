@@ -1,9 +1,14 @@
 const data = require("./data/active/GameData.json");
-const liquids = require("./data/active");
+const liquids = require("./data/active/liquids.json");
+const rawMaterials = require("./data/active/rawMaterials.json");
 const fs = require("fs");
 
 const isLiquid = (name) => {
   return liquids.includes(name);
+};
+
+const isRaw = (name) => {
+  return rawMaterials.includes(name);
 };
 
 const unifyData = () => {
@@ -57,6 +62,7 @@ const generateRecipeData = () => {
 
       return {
         id,
+        name: resolveNames(id),
         amountRaw: amount,
         amount: liquid ? amountDec : amount,
         perMinute: {
@@ -76,11 +82,6 @@ const generateRecipeData = () => {
 
       const id = clearData[0].split(".")[1]?.replace(/[^a-zA-Z0-9_]/g, "");
       const amount = clearData[1]?.split("=")[1]?.replace(/[^a-zA-Z0-9]/g, "");
-      if (el.ClassName === "Recipe_Alternate_ElectroAluminumScrap_C")
-        console.log(
-          "🚀 ~ file: index.js:141 ~ clearData:",
-          clearData[0].split(".")[1]
-        );
 
       const amountDec = parseInt(amount) / 1000;
 
@@ -88,9 +89,12 @@ const generateRecipeData = () => {
       const ingredientDecPerMin = parseInt(ingredientPerMin) / 1000;
 
       const liquid = isLiquid(id);
+      const raw = isRaw(id);
 
       return {
         id,
+        raw,
+        name: resolveNames(id),
         amountRaw: amount,
         amount: liquid ? amountDec : amount,
         perMinute: {
@@ -104,11 +108,11 @@ const generateRecipeData = () => {
 
     return acc;
   }, []);
-  fs.writeFileSync("./newRecipes.json", JSON.stringify(result));
+  fs.writeFileSync("./data/active/newRecipes.json", JSON.stringify(result));
 };
 
-distinctBuildings = () => {
-  filteredGameData("Desc_").reduce((acc, el) => {}, []);
+const resolveNames = (id) => {
+  return unifyData().find((el) => el.ClassName === id).mDisplayName;
 };
 
 generateRecipeData();
