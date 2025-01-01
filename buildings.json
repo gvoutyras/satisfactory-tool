@@ -1,0 +1,50 @@
+[
+    {
+        "id": "Build_OilRefinery_C",
+        "name": "Refinery"
+    },
+    {
+        "id": "Build_FoundryMk1_C",
+        "name": "Foundry"
+    },
+    {
+        "id": "Build_Packager_C",
+        "name": "Packager"
+    },
+    {
+        "id": "Build_Blender_C",
+        "name": "Blender"
+    },
+    {
+        "id": "Build_ManufacturerMk1_C",
+        "name": "Manufacturer"
+    },
+    {
+        "id": "Build_AssemblerMk1_C",
+        "name": "Assembler"
+    },
+    {
+        "id": "Build_SmelterMk1_C",
+        "name": "Smelter"
+    },
+    {
+        "id": "Build_ConstructorMk1_C",
+        "name": "Constructor"
+    },
+    {
+        "id": "Build_OilPump_C",
+        "name": "Oil Extractor"
+    },
+    {
+        "id": "Build_MinerMk2_C",
+        "name": "Miner Mk.2"
+    },
+    {
+        "id": "Build_MinerMk3_C",
+        "name": "Miner Mk.3"
+    },
+    {
+        "id": "Build_MinerMk1_C",
+        "name": "Miner Mk.1"
+    }
+]

@@ -1,0 +1,5199 @@
+{
+    "Desc_IronPlate_C": [
+        [
+            {
+                "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 50,
+                    "amount": 50
+                }
+            },
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_IronRod_C": [
+        [
+            {
+                "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 12,
+                    "amount": 12
+                }
+            }
+        ]
+    ],
+    "Desc_IronIngot_C": [
+        [
+            {
+                "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
+                "amountRaw": "7",
+                "amount": "7",
+                "perMinute": {
+                    "amountRaw": 35,
+                    "amount": 35
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "4000",
+                "amount": 4,
+                "perMinute": {
+                    "amountRaw": 20000,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            },
+            {
+                "id": "Desc_OreCopper_C",
+                "raw": true,
+                "name": "Copper Ore",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ]
+    ],
+    "Desc_Cement_C": [
+        [
+            {
+                "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 120,
+                    "amount": 120
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "5000",
+                "amount": 5,
+                "perMinute": {
+                    "amountRaw": 100000,
+                    "amount": 100
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 50,
+                    "amount": 50
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
+                "amountRaw": "12",
+                "amount": "12",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            }
+        ]
+    ],
+    "Desc_ColorCartridge_C": [
+        [
+            {
+                "id": "Desc_FlowerPetals_C",
+                "raw": false,
+                "name": "Flower Petals",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 50,
+                    "amount": 50
+                }
+            }
+        ]
+    ],
+    "Desc_LiquidTurboFuel_C": [
+        [
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "5000",
+                "amount": 5,
+                "perMinute": {
+                    "amountRaw": 37500,
+                    "amount": 37.5
+                }
+            },
+            {
+                "id": "Desc_CompactedCoal_C",
+                "raw": false,
+                "name": "Compacted Coal",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_TurboFuel_C",
+                "raw": false,
+                "name": "Packaged Turbofuel",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 15000,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "4000",
+                "amount": 4,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            },
+            {
+                "id": "Desc_PetroleumCoke_C",
+                "raw": false,
+                "name": "Petroleum Coke",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 22500,
+                    "amount": 22.5
+                }
+            },
+            {
+                "id": "Desc_CompactedCoal_C",
+                "raw": false,
+                "name": "Compacted Coal",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ]
+    ],
+    "Desc_TurboFuel_C": [
+        [
+            {
+                "id": "Desc_LiquidTurboFuel_C",
+                "raw": false,
+                "name": "Turbofuel",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 20000,
+                    "amount": 20
+                }
+            },
+            {
+                "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ]
+    ],
+    "Desc_Coal_C": [
+        [
+            {
+                "id": "Desc_Wood_C",
+                "raw": false,
+                "name": "Wood",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_GenericBiomass_C",
+                "raw": false,
+                "name": "Biomass",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            }
+        ]
+    ],
+    "Desc_CompactedCoal_C": [
+        [
+            {
+                "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            },
+            {
+                "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            }
+        ]
+    ],
+    "Desc_CircuitBoard_C": [
+        [
+            {
+                "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_PetroleumCoke_C",
+                "raw": false,
+                "name": "Petroleum Coke",
+                "amountRaw": "9",
+                "amount": "9",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 12.5,
+                    "amount": 12.5
+                }
+            },
+            {
+                "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
+                "amountRaw": "30",
+                "amount": "30",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
+                "amountRaw": "11",
+                "amount": "11",
+                "perMinute": {
+                    "amountRaw": 27.5,
+                    "amount": 27.5
+                }
+            },
+            {
+                "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
+                "amountRaw": "11",
+                "amount": "11",
+                "perMinute": {
+                    "amountRaw": 27.5,
+                    "amount": 27.5
+                }
+            }
+        ]
+    ],
+    "Desc_LiquidFuel_C": [
+        [
+            {
+                "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 60000,
+                    "amount": 60
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 60000,
+                    "amount": 60
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Fuel_C",
+                "raw": false,
+                "name": "Packaged Fuel",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "5000",
+                "amount": 5,
+                "perMinute": {
+                    "amountRaw": 50000,
+                    "amount": 50
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "10000",
+                "amount": 10,
+                "perMinute": {
+                    "amountRaw": 100000,
+                    "amount": 100
+                }
+            }
+        ]
+    ],
+    "Desc_PetroleumCoke_C": [
+        [
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "4000",
+                "amount": 4,
+                "perMinute": {
+                    "amountRaw": 40000,
+                    "amount": 40
+                }
+            }
+        ]
+    ],
+    "Desc_Plastic_C": [
+        [
+            {
+                "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
+                "amountRaw": "3000",
+                "amount": 3,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_PolymerResin_C",
+                "raw": false,
+                "name": "Polymer Resin",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 20000,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_Rubber_C": [
+        [
+            {
+                "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
+                "amountRaw": "3000",
+                "amount": 3,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_PolymerResin_C",
+                "raw": false,
+                "name": "Polymer Resin",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 40,
+                    "amount": 40
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "4000",
+                "amount": 4,
+                "perMinute": {
+                    "amountRaw": 40000,
+                    "amount": 40
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_SteelPlate_C": [
+        [
+            {
+                "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_SteelPipe_C": [
+        [
+            {
+                "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_SteelIngot_C": [
+        [
+            {
+                "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            },
+            {
+                "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            },
+            {
+                "id": "Desc_PetroleumCoke_C",
+                "raw": false,
+                "name": "Petroleum Coke",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            },
+            {
+                "id": "Desc_CompactedCoal_C",
+                "raw": false,
+                "name": "Compacted Coal",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 11.25,
+                    "amount": 11.25
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 40,
+                    "amount": 40
+                }
+            },
+            {
+                "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 40,
+                    "amount": 40
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_2_C": [
+        [
+            {
+                "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            },
+            {
+                "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
+                "amountRaw": "12",
+                "amount": "12",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            },
+            {
+                "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "8",
+                "amount": "8",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_FluidCanister_C": [
+        [
+            {
+                "id": "Desc_SteelIngot_C",
+                "raw": false,
+                "name": "Steel Ingot",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ]
+    ],
+    "Desc_Fuel_C": [
+        [
+            {
+                "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 40000,
+                    "amount": 40
+                }
+            },
+            {
+                "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 40,
+                    "amount": 40
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "1000",
+                "amount": 1,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_PackagedWater_C",
+                "raw": false,
+                "name": "Packaged Water",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_LiquidBiofuel_C": [
+        [
+            {
+                "id": "Desc_Biofuel_C",
+                "raw": false,
+                "name": "Solid Biofuel",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 90,
+                    "amount": 90
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "3000",
+                "amount": 3,
+                "perMinute": {
+                    "amountRaw": 45000,
+                    "amount": 45
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_PackagedBiofuel_C",
+                "raw": false,
+                "name": "Packaged Liquid Biofuel",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_PackagedBiofuel_C": [
+        [
+            {
+                "id": "Desc_LiquidBiofuel_C",
+                "raw": false,
+                "name": "Liquid Biofuel",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 40000,
+                    "amount": 40
+                }
+            },
+            {
+                "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 40,
+                    "amount": 40
+                }
+            }
+        ]
+    ],
+    "Desc_PackagedOil_C": [
+        [
+            {
+                "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_PackagedOilResidue_C": [
+        [
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_PackagedWater_C": [
+        [
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 60000,
+                    "amount": 60
+                }
+            },
+            {
+                "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_LiquidOil_C": [
+        [
+            {
+                "id": "Desc_PackagedOil_C",
+                "raw": false,
+                "name": "Packaged Oil",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_HeavyOilResidue_C": [
+        [
+            {
+                "id": "Desc_PackagedOilResidue_C",
+                "raw": false,
+                "name": "Packaged Heavy Oil Residue",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
+                "amountRaw": "3000",
+                "amount": 3,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_Water_C": [
+        [
+            {
+                "id": "Desc_PackagedWater_C",
+                "raw": false,
+                "name": "Packaged Water",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 120,
+                    "amount": 120
+                }
+            }
+        ]
+    ],
+    "Desc_CopperSheet_C": [
+        [
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "3000",
+                "amount": 3,
+                "perMinute": {
+                    "amountRaw": 22500,
+                    "amount": 22.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ]
+    ],
+    "Desc_QuartzCrystal_C": [
+        [
+            {
+                "id": "Desc_RawQuartz_C",
+                "raw": true,
+                "name": "Raw Quartz",
+                "amountRaw": "9",
+                "amount": "9",
+                "perMinute": {
+                    "amountRaw": 67.5,
+                    "amount": 67.5
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "5000",
+                "amount": 5,
+                "perMinute": {
+                    "amountRaw": 37500,
+                    "amount": 37.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_RawQuartz_C",
+                "raw": true,
+                "name": "Raw Quartz",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            }
+        ]
+    ],
+    "Desc_CopperIngot_C": [
+        [
+            {
+                "id": "Desc_OreCopper_C",
+                "raw": true,
+                "name": "Copper Ore",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "4000",
+                "amount": 4,
+                "perMinute": {
+                    "amountRaw": 10000,
+                    "amount": 10
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreCopper_C",
+                "raw": true,
+                "name": "Copper Ore",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 50,
+                    "amount": 50
+                }
+            },
+            {
+                "id": "Desc_OreIron_C",
+                "raw": true,
+                "name": "Iron Ore",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreCopper_C",
+                "raw": true,
+                "name": "Copper Ore",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_GoldIngot_C": [
+        [
+            {
+                "id": "Desc_OreGold_C",
+                "raw": true,
+                "name": "Caterium Ore",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 24,
+                    "amount": 24
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 24000,
+                    "amount": 24
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreGold_C",
+                "raw": true,
+                "name": "Caterium Ore",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            }
+        ]
+    ],
+    "Desc_AluminumIngot_C": [
+        [
+            {
+                "id": "Desc_AluminumScrap_C",
+                "raw": false,
+                "name": "Aluminum Scrap",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_AluminumScrap_C",
+                "raw": false,
+                "name": "Aluminum Scrap",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 90,
+                    "amount": 90
+                }
+            },
+            {
+                "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            }
+        ]
+    ],
+    "Desc_UraniumCell_C": [
+        [
+            {
+                "id": "Desc_OreUranium_C",
+                "raw": true,
+                "name": "Uranium",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 50,
+                    "amount": 50
+                }
+            },
+            {
+                "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
+                "amountRaw": "8000",
+                "amount": 8,
+                "perMinute": {
+                    "amountRaw": 40000,
+                    "amount": 40
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreUranium_C",
+                "raw": true,
+                "name": "Uranium",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            },
+            {
+                "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            },
+            {
+                "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            }
+        ]
+    ],
+    "Desc_CoolingSystem_C": [
+        [
+            {
+                "id": "Desc_AluminumPlateReinforced_C",
+                "raw": false,
+                "name": "Heat Sink",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 12,
+                    "amount": 12
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 12,
+                    "amount": 12
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "5000",
+                "amount": 5,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
+                "amountRaw": "25000",
+                "amount": "25000",
+                "perMinute": {
+                    "amountRaw": 150000,
+                    "amount": 150000
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_AluminumPlateReinforced_C",
+                "raw": false,
+                "name": "Heat Sink",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 9.375,
+                    "amount": 9.375
+                }
+            },
+            {
+                "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.875,
+                    "amount": 1.875
+                }
+            },
+            {
+                "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
+                "amountRaw": "24000",
+                "amount": "24000",
+                "perMinute": {
+                    "amountRaw": 45000,
+                    "amount": 45000
+                }
+            }
+        ]
+    ],
+    "Desc_NitricAcid_C": [
+        [
+            {
+                "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
+                "amountRaw": "12000",
+                "amount": "12000",
+                "perMinute": {
+                    "amountRaw": 120000,
+                    "amount": 120000
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "3000",
+                "amount": 3,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_PackagedNitricAcid_C",
+                "raw": false,
+                "name": "Packaged Nitric Acid",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ]
+    ],
+    "Desc_NonFissibleUranium_C": [
+        [
+            {
+                "id": "Desc_NuclearWaste_C",
+                "raw": false,
+                "name": "Uranium Waste",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            },
+            {
+                "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            },
+            {
+                "id": "Desc_NitricAcid_C",
+                "raw": false,
+                "name": "Nitric Acid",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 15000,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 15000,
+                    "amount": 15
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreUranium_C",
+                "raw": true,
+                "name": "Uranium",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            },
+            {
+                "id": "Desc_NuclearWaste_C",
+                "raw": false,
+                "name": "Uranium Waste",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            },
+            {
+                "id": "Desc_NitricAcid_C",
+                "raw": false,
+                "name": "Nitric Acid",
+                "amountRaw": "3000",
+                "amount": 3,
+                "perMinute": {
+                    "amountRaw": 15000,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
+                "amountRaw": "5000",
+                "amount": 5,
+                "perMinute": {
+                    "amountRaw": 25000,
+                    "amount": 25
+                }
+            }
+        ]
+    ],
+    "Desc_AluminumCasing_C": [
+        [
+            {
+                "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 90,
+                    "amount": 90
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 150,
+                    "amount": 150
+                }
+            },
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            }
+        ]
+    ],
+    "Desc_AluminumPlate_C": [
+        [
+            {
+                "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_ModularFrameLightweight_C": [
+        [
+            {
+                "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
+                "amountRaw": "32",
+                "amount": "32",
+                "perMinute": {
+                    "amountRaw": 40,
+                    "amount": 40
+                }
+            },
+            {
+                "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.25,
+                    "amount": 1.25
+                }
+            },
+            {
+                "id": "Desc_Computer_C",
+                "raw": false,
+                "name": "Computer",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.25,
+                    "amount": 1.25
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.5,
+                    "amount": 1.5
+                }
+            },
+            {
+                "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
+                "amountRaw": "60",
+                "amount": "60",
+                "perMinute": {
+                    "amountRaw": 90,
+                    "amount": 90
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "30",
+                "amount": "30",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_AluminumPlateReinforced_C",
+                "raw": false,
+                "name": "Heat Sink",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_HighSpeedConnector_C",
+                "raw": false,
+                "name": "High-Speed Connector",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_QuartzCrystal_C",
+                "raw": false,
+                "name": "Quartz Crystal",
+                "amountRaw": "12",
+                "amount": "12",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            }
+        ]
+    ],
+    "Desc_AluminaSolution_C": [
+        [
+            {
+                "id": "Desc_OreBauxite_C",
+                "raw": true,
+                "name": "Bauxite",
+                "amountRaw": "12",
+                "amount": "12",
+                "perMinute": {
+                    "amountRaw": 120,
+                    "amount": 120
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "18000",
+                "amount": 18,
+                "perMinute": {
+                    "amountRaw": 180000,
+                    "amount": 180
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_PackagedAlumina_C",
+                "raw": false,
+                "name": "Packaged Alumina Solution",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 120,
+                    "amount": 120
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreBauxite_C",
+                "raw": true,
+                "name": "Bauxite",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 200,
+                    "amount": 200
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "10000",
+                "amount": 10,
+                "perMinute": {
+                    "amountRaw": 200000,
+                    "amount": 200
+                }
+            }
+        ]
+    ],
+    "Desc_AluminumScrap_C": [
+        [
+            {
+                "id": "Desc_AluminaSolution_C",
+                "raw": false,
+                "name": "Alumina Solution",
+                "amountRaw": "4000",
+                "amount": 4,
+                "perMinute": {
+                    "amountRaw": 240000,
+                    "amount": 240
+                }
+            },
+            {
+                "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 120,
+                    "amount": 120
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_AluminaSolution_C",
+                "raw": false,
+                "name": "Alumina Solution",
+                "amountRaw": "12000",
+                "amount": 12,
+                "perMinute": {
+                    "amountRaw": 180000,
+                    "amount": 180
+                }
+            },
+            {
+                "id": "Desc_PetroleumCoke_C",
+                "raw": false,
+                "name": "Petroleum Coke",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_OreBauxite_C",
+                "raw": true,
+                "name": "Bauxite",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 150,
+                    "amount": 150
+                }
+            },
+            {
+                "id": "Desc_Coal_C",
+                "raw": true,
+                "name": "Coal",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 100,
+                    "amount": 100
+                }
+            },
+            {
+                "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
+                "amountRaw": "5000",
+                "amount": 5,
+                "perMinute": {
+                    "amountRaw": 50000,
+                    "amount": 50
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 60000,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_PackagedAlumina_C": [
+        [
+            {
+                "id": "Desc_AluminaSolution_C",
+                "raw": false,
+                "name": "Alumina Solution",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 120000,
+                    "amount": 120
+                }
+            },
+            {
+                "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 120,
+                    "amount": 120
+                }
+            }
+        ]
+    ],
+    "Desc_Silica_C": [
+        [
+            {
+                "id": "Desc_RawQuartz_C",
+                "raw": true,
+                "name": "Raw Quartz",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_RawQuartz_C",
+                "raw": true,
+                "name": "Raw Quartz",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 11.25,
+                    "amount": 11.25
+                }
+            },
+            {
+                "id": "Desc_Stone_C",
+                "raw": true,
+                "name": "Limestone",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 18.75,
+                    "amount": 18.75
+                }
+            }
+        ]
+    ],
+    "Desc_CrystalOscillator_C": [
+        [
+            {
+                "id": "Desc_QuartzCrystal_C",
+                "raw": false,
+                "name": "Quartz Crystal",
+                "amountRaw": "36",
+                "amount": "36",
+                "perMinute": {
+                    "amountRaw": 18,
+                    "amount": 18
+                }
+            },
+            {
+                "id": "Desc_Cable_C",
+                "raw": false,
+                "name": "Cable",
+                "amountRaw": "28",
+                "amount": "28",
+                "perMinute": {
+                    "amountRaw": 14,
+                    "amount": 14
+                }
+            },
+            {
+                "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_QuartzCrystal_C",
+                "raw": false,
+                "name": "Quartz Crystal",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 18.75,
+                    "amount": 18.75
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "7",
+                "amount": "7",
+                "perMinute": {
+                    "amountRaw": 13.125,
+                    "amount": 13.125
+                }
+            },
+            {
+                "id": "Desc_CircuitBoardHighSpeed_C",
+                "raw": false,
+                "name": "AI Limiter",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.875,
+                    "amount": 1.875
+                }
+            }
+        ]
+    ],
+    "Desc_PolymerResin_C": [
+        [
+            {
+                "id": "Desc_LiquidOil_C",
+                "raw": true,
+                "name": "Crude Oil",
+                "amountRaw": "6000",
+                "amount": 6,
+                "perMinute": {
+                    "amountRaw": 60000,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_1_C": [
+        [
+            {
+                "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            },
+            {
+                "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            },
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            },
+            {
+                "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_3_C": [
+        [
+            {
+                "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            },
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "40",
+                "amount": "40",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            },
+            {
+                "id": "Desc_HighSpeedConnector_C",
+                "raw": false,
+                "name": "High-Speed Connector",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.875,
+                    "amount": 1.875
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            },
+            {
+                "id": "Desc_Cable_C",
+                "raw": false,
+                "name": "Cable",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 50,
+                    "amount": 50
+                }
+            }
+        ]
+    ],
+    "Desc_SteelPlateReinforced_C": [
+        [
+            {
+                "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 24,
+                    "amount": 24
+                }
+            },
+            {
+                "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "7",
+                "amount": "7",
+                "perMinute": {
+                    "amountRaw": 28,
+                    "amount": 28
+                }
+            },
+            {
+                "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ]
+    ],
+    "Desc_Motor_C": [
+        [
+            {
+                "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            },
+            {
+                "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            },
+            {
+                "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            },
+            {
+                "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            },
+            {
+                "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.25,
+                    "amount": 1.25
+                }
+            }
+        ]
+    ],
+    "Desc_Stator_C": [
+        [
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "8",
+                "amount": "8",
+                "perMinute": {
+                    "amountRaw": 40,
+                    "amount": 40
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 16,
+                    "amount": 16
+                }
+            },
+            {
+                "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_ModularFrameHeavy_C": [
+        [
+            {
+                "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            },
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_SteelPlateReinforced_C",
+                "raw": false,
+                "name": "Encased Industrial Beam",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            },
+            {
+                "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
+                "amountRaw": "100",
+                "amount": "100",
+                "perMinute": {
+                    "amountRaw": 200,
+                    "amount": 200
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 18.75,
+                    "amount": 18.75
+                }
+            },
+            {
+                "id": "Desc_SteelPlateReinforced_C",
+                "raw": false,
+                "name": "Encased Industrial Beam",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 11.25,
+                    "amount": 11.25
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            },
+            {
+                "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
+                "amountRaw": "104",
+                "amount": "104",
+                "perMinute": {
+                    "amountRaw": 390,
+                    "amount": 390
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_ModularFrame_C",
+                "raw": false,
+                "name": "Modular Frame",
+                "amountRaw": "8",
+                "amount": "8",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_SteelPlateReinforced_C",
+                "raw": false,
+                "name": "Encased Industrial Beam",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 9.375,
+                    "amount": 9.375
+                }
+            },
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "36",
+                "amount": "36",
+                "perMinute": {
+                    "amountRaw": 33.75,
+                    "amount": 33.75
+                }
+            },
+            {
+                "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
+                "amountRaw": "22",
+                "amount": "22",
+                "perMinute": {
+                    "amountRaw": 20.625,
+                    "amount": 20.625
+                }
+            }
+        ]
+    ],
+    "Desc_CircuitBoardHighSpeed_C": [
+        [
+            {
+                "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            },
+            {
+                "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 100,
+                    "amount": 100
+                }
+            }
+        ]
+    ],
+    "Desc_Computer_C": [
+        [
+            {
+                "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            },
+            {
+                "id": "Desc_Cable_C",
+                "raw": false,
+                "name": "Cable",
+                "amountRaw": "9",
+                "amount": "9",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            },
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "18",
+                "amount": "18",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            },
+            {
+                "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
+                "amountRaw": "52",
+                "amount": "52",
+                "perMinute": {
+                    "amountRaw": 130,
+                    "amount": 130
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
+                "amountRaw": "8",
+                "amount": "8",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 2.8125,
+                    "amount": 2.8125
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
+                "amountRaw": "7",
+                "amount": "7",
+                "perMinute": {
+                    "amountRaw": 26.25,
+                    "amount": 26.25
+                }
+            },
+            {
+                "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
+                "amountRaw": "28",
+                "amount": "28",
+                "perMinute": {
+                    "amountRaw": 105,
+                    "amount": 105
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "12",
+                "amount": "12",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_4_C": [
+        [
+            {
+                "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_SpaceElevatorPart_1_C",
+                "raw": false,
+                "name": "Smart Plating",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_5_C": [
+        [
+            {
+                "id": "Desc_SpaceElevatorPart_3_C",
+                "raw": false,
+                "name": "Automated Wiring",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            },
+            {
+                "id": "Desc_ModularFrameHeavy_C",
+                "raw": false,
+                "name": "Heavy Modular Frame",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 1,
+                    "amount": 1
+                }
+            },
+            {
+                "id": "Desc_Computer_C",
+                "raw": false,
+                "name": "Computer",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 1,
+                    "amount": 1
+                }
+            }
+        ]
+    ],
+    "Desc_Wire_C": [
+        [
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 12,
+                    "amount": 12
+                }
+            },
+            {
+                "id": "Desc_GoldIngot_C",
+                "raw": false,
+                "name": "Caterium Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 3,
+                    "amount": 3
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_GoldIngot_C",
+                "raw": false,
+                "name": "Caterium Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 12.5,
+                    "amount": 12.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ]
+    ],
+    "Desc_Rotor_C": [
+        [
+            {
+                "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            },
+            {
+                "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
+                "amountRaw": "52",
+                "amount": "52",
+                "perMinute": {
+                    "amountRaw": 195,
+                    "amount": 195
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronRod_C",
+                "raw": false,
+                "name": "Iron Rod",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            },
+            {
+                "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
+                "amountRaw": "25",
+                "amount": "25",
+                "perMinute": {
+                    "amountRaw": 100,
+                    "amount": 100
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            },
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_ModularFrame_C": [
+        [
+            {
+                "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 3,
+                    "amount": 3
+                }
+            },
+            {
+                "id": "Desc_IronRod_C",
+                "raw": false,
+                "name": "Iron Rod",
+                "amountRaw": "12",
+                "amount": "12",
+                "perMinute": {
+                    "amountRaw": 12,
+                    "amount": 12
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
+                "amountRaw": "56",
+                "amount": "56",
+                "perMinute": {
+                    "amountRaw": 140,
+                    "amount": 140
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronPlateReinforced_C",
+                "raw": false,
+                "name": "Reinforced Iron Plate",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            },
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_Cable_C": [
+        [
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            },
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 15000,
+                    "amount": 15
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "9",
+                "amount": "9",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_IronPlateReinforced_C": [
+        [
+            {
+                "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 11.25,
+                    "amount": 11.25
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 18.75,
+                    "amount": 18.75
+                }
+            },
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
+                "amountRaw": "18",
+                "amount": "18",
+                "perMinute": {
+                    "amountRaw": 90,
+                    "amount": 90
+                }
+            },
+            {
+                "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
+                "amountRaw": "50",
+                "amount": "50",
+                "perMinute": {
+                    "amountRaw": 250,
+                    "amount": 250
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_IronScrew_C",
+                "raw": false,
+                "name": "Screw",
+                "amountRaw": "12",
+                "amount": "12",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_MotorLightweight_C": [
+        [
+            {
+                "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_PressureConversionCube_C",
+                "raw": false,
+                "name": "Pressure Conversion Cube",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.875,
+                    "amount": 1.875
+                }
+            },
+            {
+                "id": "Desc_PackagedNitrogenGas_C",
+                "raw": false,
+                "name": "Packaged Nitrogen Gas",
+                "amountRaw": "24",
+                "amount": "24",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            },
+            {
+                "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
+                "amountRaw": "8",
+                "amount": "8",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
+                "amountRaw": "7",
+                "amount": "7",
+                "perMinute": {
+                    "amountRaw": 6.5625,
+                    "amount": 6.5625
+                }
+            },
+            {
+                "id": "Desc_ModularFrameLightweight_C",
+                "raw": false,
+                "name": "Radio Control Unit",
+                "amountRaw": "9",
+                "amount": "9",
+                "perMinute": {
+                    "amountRaw": 8.4375,
+                    "amount": 8.4375
+                }
+            },
+            {
+                "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 4.6875,
+                    "amount": 4.6875
+                }
+            },
+            {
+                "id": "Desc_Rotor_C",
+                "raw": false,
+                "name": "Rotor",
+                "amountRaw": "7",
+                "amount": "7",
+                "perMinute": {
+                    "amountRaw": 6.5625,
+                    "amount": 6.5625
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_CoolingSystem_C",
+                "raw": false,
+                "name": "Cooling System",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_ModularFrameLightweight_C",
+                "raw": false,
+                "name": "Radio Control Unit",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            },
+            {
+                "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "24",
+                "amount": "24",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            }
+        ]
+    ],
+    "Desc_PlutoniumCell_C": [
+        [
+            {
+                "id": "Desc_PlutoniumPellet_C",
+                "raw": false,
+                "name": "Plutonium Pellet",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            },
+            {
+                "id": "Desc_Cement_C",
+                "raw": false,
+                "name": "Concrete",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_NonFissibleUranium_C",
+                "raw": false,
+                "name": "Non-fissile Uranium",
+                "amountRaw": "150",
+                "amount": "150",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            },
+            {
+                "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_PressureConversionCube_C": [
+        [
+            {
+                "id": "Desc_ModularFrameFused_C",
+                "raw": false,
+                "name": "Fused Modular Frame",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1,
+                    "amount": 1
+                }
+            },
+            {
+                "id": "Desc_ModularFrameLightweight_C",
+                "raw": false,
+                "name": "Radio Control Unit",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            }
+        ]
+    ],
+    "Desc_CopperDust_C": [
+        [
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "30",
+                "amount": "30",
+                "perMinute": {
+                    "amountRaw": 300,
+                    "amount": 300
+                }
+            }
+        ]
+    ],
+    "Desc_PlutoniumPellet_C": [
+        [
+            {
+                "id": "Desc_NonFissibleUranium_C",
+                "raw": false,
+                "name": "Non-fissile Uranium",
+                "amountRaw": "100",
+                "amount": "100",
+                "perMinute": {
+                    "amountRaw": 100,
+                    "amount": 100
+                }
+            },
+            {
+                "id": "Desc_NuclearWaste_C",
+                "raw": false,
+                "name": "Uranium Waste",
+                "amountRaw": "25",
+                "amount": "25",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            }
+        ]
+    ],
+    "Desc_PlutoniumFuelRod_C": [
+        [
+            {
+                "id": "Desc_PlutoniumCell_C",
+                "raw": false,
+                "name": "Encased Plutonium Cell",
+                "amountRaw": "30",
+                "amount": "30",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
+                "amountRaw": "18",
+                "amount": "18",
+                "perMinute": {
+                    "amountRaw": 4.5,
+                    "amount": 4.5
+                }
+            },
+            {
+                "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 1.5,
+                    "amount": 1.5
+                }
+            },
+            {
+                "id": "Desc_AluminumPlateReinforced_C",
+                "raw": false,
+                "name": "Heat Sink",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_PlutoniumCell_C",
+                "raw": false,
+                "name": "Encased Plutonium Cell",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            },
+            {
+                "id": "Desc_PressureConversionCube_C",
+                "raw": false,
+                "name": "Pressure Conversion Cube",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 0.5,
+                    "amount": 0.5
+                }
+            }
+        ]
+    ],
+    "Desc_PackagedNitricAcid_C": [
+        [
+            {
+                "id": "Desc_NitricAcid_C",
+                "raw": false,
+                "name": "Nitric Acid",
+                "amountRaw": "1000",
+                "amount": 1,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_GasTank_C",
+                "raw": false,
+                "name": "Empty Fluid Tank",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_9_C": [
+        [
+            {
+                "id": "Desc_CopperDust_C",
+                "raw": false,
+                "name": "Copper Powder",
+                "amountRaw": "200",
+                "amount": "200",
+                "perMinute": {
+                    "amountRaw": 100,
+                    "amount": 100
+                }
+            },
+            {
+                "id": "Desc_PressureConversionCube_C",
+                "raw": false,
+                "name": "Pressure Conversion Cube",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 0.5,
+                    "amount": 0.5
+                }
+            }
+        ]
+    ],
+    "Desc_ComputerSuper_C": [
+        [
+            {
+                "id": "Desc_Computer_C",
+                "raw": false,
+                "name": "Computer",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 3.5999999999999996,
+                    "amount": 3.5999999999999996
+                }
+            },
+            {
+                "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 2.4,
+                    "amount": 2.4
+                }
+            },
+            {
+                "id": "Desc_Battery_C",
+                "raw": false,
+                "name": "Battery",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 24,
+                    "amount": 24
+                }
+            },
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "45",
+                "amount": "45",
+                "perMinute": {
+                    "amountRaw": 54,
+                    "amount": 54
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Computer_C",
+                "raw": false,
+                "name": "Computer",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            },
+            {
+                "id": "Desc_CircuitBoardHighSpeed_C",
+                "raw": false,
+                "name": "AI Limiter",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            },
+            {
+                "id": "Desc_HighSpeedConnector_C",
+                "raw": false,
+                "name": "High-Speed Connector",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 5.625,
+                    "amount": 5.625
+                }
+            },
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "28",
+                "amount": "28",
+                "perMinute": {
+                    "amountRaw": 52.5,
+                    "amount": 52.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_ModularFrameLightweight_C",
+                "raw": false,
+                "name": "Radio Control Unit",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 9,
+                    "amount": 9
+                }
+            },
+            {
+                "id": "Desc_CoolingSystem_C",
+                "raw": false,
+                "name": "Cooling System",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 9,
+                    "amount": 9
+                }
+            }
+        ]
+    ],
+    "Desc_Battery_C": [
+        [
+            {
+                "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
+                "amountRaw": "2500",
+                "amount": 2.5,
+                "perMinute": {
+                    "amountRaw": 50000,
+                    "amount": 50
+                }
+            },
+            {
+                "id": "Desc_AluminaSolution_C",
+                "raw": false,
+                "name": "Alumina Solution",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 40000,
+                    "amount": 40
+                }
+            },
+            {
+                "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 45,
+                    "amount": 45
+                }
+            },
+            {
+                "id": "Desc_AluminumPlate_C",
+                "raw": false,
+                "name": "Alclad Aluminum Sheet",
+                "amountRaw": "7",
+                "amount": "7",
+                "perMinute": {
+                    "amountRaw": 52.5,
+                    "amount": 52.5
+                }
+            },
+            {
+                "id": "Desc_Plastic_C",
+                "raw": false,
+                "name": "Plastic",
+                "amountRaw": "8",
+                "amount": "8",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            },
+            {
+                "id": "Desc_Wire_C",
+                "raw": false,
+                "name": "Wire",
+                "amountRaw": "12",
+                "amount": "12",
+                "perMinute": {
+                    "amountRaw": 90,
+                    "amount": 90
+                }
+            }
+        ]
+    ],
+    "Desc_SulfuricAcid_C": [
+        [
+            {
+                "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 50,
+                    "amount": 50
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "5000",
+                "amount": 5,
+                "perMinute": {
+                    "amountRaw": 50000,
+                    "amount": 50
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_PackagedSulfuricAcid_C",
+                "raw": false,
+                "name": "Packaged Sulfuric Acid",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_PackagedSulfuricAcid_C": [
+        [
+            {
+                "id": "Desc_SulfuricAcid_C",
+                "raw": false,
+                "name": "Sulfuric Acid",
+                "amountRaw": "2000",
+                "amount": 2,
+                "perMinute": {
+                    "amountRaw": 40000,
+                    "amount": 40
+                }
+            },
+            {
+                "id": "Desc_FluidCanister_C",
+                "raw": false,
+                "name": "Empty Canister",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 40,
+                    "amount": 40
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_7_C": [
+        [
+            {
+                "id": "Desc_SpaceElevatorPart_5_C",
+                "raw": false,
+                "name": "Adaptive Control Unit",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 1.5,
+                    "amount": 1.5
+                }
+            },
+            {
+                "id": "Desc_ComputerSuper_C",
+                "raw": false,
+                "name": "Supercomputer",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 0.75,
+                    "amount": 0.75
+                }
+            }
+        ]
+    ],
+    "Desc_HighSpeedConnector_C": [
+        [
+            {
+                "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
+                "amountRaw": "56",
+                "amount": "56",
+                "perMinute": {
+                    "amountRaw": 210,
+                    "amount": 210
+                }
+            },
+            {
+                "id": "Desc_Cable_C",
+                "raw": false,
+                "name": "Cable",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            },
+            {
+                "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_HighSpeedWire_C",
+                "raw": false,
+                "name": "Quickwire",
+                "amountRaw": "60",
+                "amount": "60",
+                "perMinute": {
+                    "amountRaw": 90,
+                    "amount": 90
+                }
+            },
+            {
+                "id": "Desc_Silica_C",
+                "raw": false,
+                "name": "Silica",
+                "amountRaw": "25",
+                "amount": "25",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            },
+            {
+                "id": "Desc_CircuitBoard_C",
+                "raw": false,
+                "name": "Circuit Board",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 3,
+                    "amount": 3
+                }
+            }
+        ]
+    ],
+    "Desc_ElectromagneticControlRod_C": [
+        [
+            {
+                "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 6,
+                    "amount": 6
+                }
+            },
+            {
+                "id": "Desc_CircuitBoardHighSpeed_C",
+                "raw": false,
+                "name": "AI Limiter",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 4,
+                    "amount": 4
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Stator_C",
+                "raw": false,
+                "name": "Stator",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 8,
+                    "amount": 8
+                }
+            },
+            {
+                "id": "Desc_HighSpeedConnector_C",
+                "raw": false,
+                "name": "High-Speed Connector",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 4,
+                    "amount": 4
+                }
+            }
+        ]
+    ],
+    "Desc_NuclearFuelRod_C": [
+        [
+            {
+                "id": "Desc_UraniumCell_C",
+                "raw": false,
+                "name": "Encased Uranium Cell",
+                "amountRaw": "50",
+                "amount": "50",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            },
+            {
+                "id": "Desc_SteelPlateReinforced_C",
+                "raw": false,
+                "name": "Encased Industrial Beam",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 1.2000000000000002,
+                    "amount": 1.2000000000000002
+                }
+            },
+            {
+                "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_UraniumCell_C",
+                "raw": false,
+                "name": "Encased Uranium Cell",
+                "amountRaw": "100",
+                "amount": "100",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            },
+            {
+                "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            },
+            {
+                "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 0.6000000000000001,
+                    "amount": 0.6000000000000001
+                }
+            },
+            {
+                "id": "BP_EquipmentDescriptorBeacon_C",
+                "raw": false,
+                "name": "Beacon",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 1.2000000000000002,
+                    "amount": 1.2000000000000002
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_6_C": [
+        [
+            {
+                "id": "Desc_SpaceElevatorPart_2_C",
+                "raw": false,
+                "name": "Versatile Framework",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            },
+            {
+                "id": "Desc_ElectromagneticControlRod_C",
+                "raw": false,
+                "name": "Electromagnetic Control Rod",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 1,
+                    "amount": 1
+                }
+            },
+            {
+                "id": "Desc_Battery_C",
+                "raw": false,
+                "name": "Battery",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            }
+        ]
+    ],
+    "Desc_AluminumPlateReinforced_C": [
+        [
+            {
+                "id": "Desc_AluminumPlate_C",
+                "raw": false,
+                "name": "Alclad Aluminum Sheet",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            },
+            {
+                "id": "Desc_CopperSheet_C",
+                "raw": false,
+                "name": "Copper Sheet",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 22.5,
+                    "amount": 22.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_Rubber_C",
+                "raw": false,
+                "name": "Rubber",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_ModularFrameFused_C": [
+        [
+            {
+                "id": "Desc_ModularFrameHeavy_C",
+                "raw": false,
+                "name": "Heavy Modular Frame",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1.5,
+                    "amount": 1.5
+                }
+            },
+            {
+                "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
+                "amountRaw": "50",
+                "amount": "50",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            },
+            {
+                "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
+                "amountRaw": "25000",
+                "amount": "25000",
+                "perMinute": {
+                    "amountRaw": 37500,
+                    "amount": 37500
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_ModularFrameHeavy_C",
+                "raw": false,
+                "name": "Heavy Modular Frame",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 3,
+                    "amount": 3
+                }
+            },
+            {
+                "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
+                "amountRaw": "50",
+                "amount": "50",
+                "perMinute": {
+                    "amountRaw": 150,
+                    "amount": 150
+                }
+            },
+            {
+                "id": "Desc_NitricAcid_C",
+                "raw": false,
+                "name": "Nitric Acid",
+                "amountRaw": "8000",
+                "amount": 8,
+                "perMinute": {
+                    "amountRaw": 24000,
+                    "amount": 24
+                }
+            },
+            {
+                "id": "Desc_LiquidFuel_C",
+                "raw": false,
+                "name": "Fuel",
+                "amountRaw": "10000",
+                "amount": 10,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            }
+        ]
+    ],
+    "Desc_GasTank_C": [
+        [
+            {
+                "id": "Desc_AluminumIngot_C",
+                "raw": false,
+                "name": "Aluminum Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_PackagedNitrogenGas_C": [
+        [
+            {
+                "id": "Desc_NitrogenGas_C",
+                "raw": true,
+                "name": "Nitrogen Gas",
+                "amountRaw": "4000",
+                "amount": "4000",
+                "perMinute": {
+                    "amountRaw": 240000,
+                    "amount": 240000
+                }
+            },
+            {
+                "id": "Desc_GasTank_C",
+                "raw": false,
+                "name": "Empty Fluid Tank",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_NitrogenGas_C": [
+        [
+            {
+                "id": "Desc_PackagedNitrogenGas_C",
+                "raw": false,
+                "name": "Packaged Nitrogen Gas",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "BP_ItemDescriptorPortableMiner_C": [
+        [
+            {
+                "id": "Desc_Motor_C",
+                "raw": false,
+                "name": "Motor",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 1,
+                    "amount": 1
+                }
+            },
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 4,
+                    "amount": 4
+                }
+            },
+            {
+                "id": "Desc_IronRod_C",
+                "raw": false,
+                "name": "Iron Rod",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 4,
+                    "amount": 4
+                }
+            },
+            {
+                "id": "Desc_IronPlate_C",
+                "raw": false,
+                "name": "Iron Plate",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            }
+        ]
+    ],
+    "Desc_SpaceElevatorPart_8_C": [
+        [
+            {
+                "id": "Desc_SpaceElevatorPart_4_C",
+                "raw": false,
+                "name": "Modular Engine",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            },
+            {
+                "id": "Desc_MotorLightweight_C",
+                "raw": false,
+                "name": "Turbo Motor",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 1,
+                    "amount": 1
+                }
+            },
+            {
+                "id": "Desc_CoolingSystem_C",
+                "raw": false,
+                "name": "Cooling System",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 3,
+                    "amount": 3
+                }
+            },
+            {
+                "id": "Desc_ModularFrameFused_C",
+                "raw": false,
+                "name": "Fused Modular Frame",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 1,
+                    "amount": 1
+                }
+            }
+        ]
+    ],
+    "Desc_IronScrew_C": [
+        [
+            {
+                "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 12.5,
+                    "amount": 12.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_IronRod_C",
+                "raw": false,
+                "name": "Iron Rod",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_HighSpeedWire_C": [
+        [
+            {
+                "id": "Desc_GoldIngot_C",
+                "raw": false,
+                "name": "Caterium Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 37.5,
+                    "amount": 37.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_GoldIngot_C",
+                "raw": false,
+                "name": "Caterium Ingot",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 12,
+                    "amount": 12
+                }
+            }
+        ]
+    ],
+    "Desc_Gunpowder_C": [
+        [
+            {
+                "id": "Desc_Sulfur_C",
+                "raw": true,
+                "name": "Sulfur",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "Desc_CompactedCoal_C",
+                "raw": false,
+                "name": "Compacted Coal",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 3.75,
+                    "amount": 3.75
+                }
+            }
+        ]
+    ],
+    "BP_EquipmentDescriptorBeacon_C": [
+        [
+            {
+                "id": "Desc_SteelPlate_C",
+                "raw": false,
+                "name": "Steel Beam",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 2,
+                    "amount": 2
+                }
+            },
+            {
+                "id": "Desc_SteelPipe_C",
+                "raw": false,
+                "name": "Steel Pipe",
+                "amountRaw": "16",
+                "amount": "16",
+                "perMinute": {
+                    "amountRaw": 8,
+                    "amount": 8
+                }
+            },
+            {
+                "id": "Desc_CrystalOscillator_C",
+                "raw": false,
+                "name": "Crystal Oscillator",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 0.5,
+                    "amount": 0.5
+                }
+            }
+        ]
+    ],
+    "Desc_Biofuel_C": [
+        [
+            {
+                "id": "Desc_GenericBiomass_C",
+                "raw": false,
+                "name": "Biomass",
+                "amountRaw": "8",
+                "amount": "8",
+                "perMinute": {
+                    "amountRaw": 120,
+                    "amount": 120
+                }
+            }
+        ]
+    ],
+    "Desc_AlienProtein_C": [
+        [
+            {
+                "id": "Desc_StingerParts_C",
+                "raw": false,
+                "name": "Stinger Remains",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_SpitterParts_C",
+                "raw": false,
+                "name": "Plasma Spitter Remains",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_HogParts_C",
+                "raw": false,
+                "name": "Hog Remains",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_HatcherParts_C",
+                "raw": false,
+                "name": "Hatcher Remains",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ]
+    ],
+    "Desc_AlienDNACapsule_C": [
+        [
+            {
+                "id": "Desc_AlienProtein_C",
+                "raw": false,
+                "name": "Alien Protein",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_GenericBiomass_C": [
+        [
+            {
+                "id": "Desc_AlienProtein_C",
+                "raw": false,
+                "name": "Alien Protein",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Mycelia_C",
+                "raw": false,
+                "name": "Mycelia",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Leaves_C",
+                "raw": false,
+                "name": "Leaves",
+                "amountRaw": "10",
+                "amount": "10",
+                "perMinute": {
+                    "amountRaw": 120,
+                    "amount": 120
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Wood_C",
+                "raw": false,
+                "name": "Wood",
+                "amountRaw": "4",
+                "amount": "4",
+                "perMinute": {
+                    "amountRaw": 60,
+                    "amount": 60
+                }
+            }
+        ]
+    ],
+    "Desc_Fabric_C": [
+        [
+            {
+                "id": "Desc_PolymerResin_C",
+                "raw": false,
+                "name": "Polymer Resin",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 30,
+                    "amount": 30
+                }
+            },
+            {
+                "id": "Desc_Water_C",
+                "raw": true,
+                "name": "Water",
+                "amountRaw": "1000",
+                "amount": 1,
+                "perMinute": {
+                    "amountRaw": 30000,
+                    "amount": 30
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Mycelia_C",
+                "raw": false,
+                "name": "Mycelia",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_GenericBiomass_C",
+                "raw": false,
+                "name": "Biomass",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 75,
+                    "amount": 75
+                }
+            }
+        ]
+    ],
+    "Desc_CrystalShard_C": [
+        [
+            {
+                "id": "Desc_Crystal_mk3_C",
+                "raw": false,
+                "name": "Purple Power Slug",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 2.5,
+                    "amount": 2.5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Crystal_mk2_C",
+                "raw": false,
+                "name": "Yellow Power Slug",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            }
+        ],
+        [
+            {
+                "id": "Desc_Crystal_C",
+                "raw": false,
+                "name": "Blue Power Slug",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 7.5,
+                    "amount": 7.5
+                }
+            }
+        ]
+    ],
+    "Desc_CartridgeChaos_C": [
+        [
+            {
+                "id": "Desc_CartridgeStandard_C",
+                "raw": false,
+                "name": "Rifle Ammo",
+                "amountRaw": "25",
+                "amount": "25",
+                "perMinute": {
+                    "amountRaw": 125,
+                    "amount": 125
+                }
+            },
+            {
+                "id": "Desc_AluminumCasing_C",
+                "raw": false,
+                "name": "Aluminum Casing",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_LiquidTurboFuel_C",
+                "raw": false,
+                "name": "Turbofuel",
+                "amountRaw": "3000",
+                "amount": 3,
+                "perMinute": {
+                    "amountRaw": 15000,
+                    "amount": 15
+                }
+            }
+        ]
+    ],
+    "Desc_GunpowderMK2_C": [
+        [
+            {
+                "id": "Desc_Gunpowder_C",
+                "raw": false,
+                "name": "Black Powder",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            },
+            {
+                "id": "Desc_HeavyOilResidue_C",
+                "raw": false,
+                "name": "Heavy Oil Residue",
+                "amountRaw": "1000",
+                "amount": 1,
+                "perMinute": {
+                    "amountRaw": 10000,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_SnowballProjectile_C": [
+        [
+            {
+                "id": "Desc_Snow_C",
+                "raw": false,
+                "name": "Actual Snow",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ]
+    ],
+    "Desc_XmasStar_C": [
+        [
+            {
+                "id": "Desc_XmasWreath_C",
+                "raw": false,
+                "name": "FICSMAS Decoration",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            },
+            {
+                "id": "Desc_CandyCane_C",
+                "raw": false,
+                "name": "Candy Cane",
+                "amountRaw": "20",
+                "amount": "20",
+                "perMinute": {
+                    "amountRaw": 20,
+                    "amount": 20
+                }
+            }
+        ]
+    ],
+    "Desc_XmasWreath_C": [
+        [
+            {
+                "id": "Desc_XmasBranch_C",
+                "raw": false,
+                "name": "FICSMAS Tree Branch",
+                "amountRaw": "15",
+                "amount": "15",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_XmasBallCluster_C",
+                "raw": false,
+                "name": "FICSMAS Ornament Bundle",
+                "amountRaw": "6",
+                "amount": "6",
+                "perMinute": {
+                    "amountRaw": 6,
+                    "amount": 6
+                }
+            }
+        ]
+    ],
+    "Desc_XmasBallCluster_C": [
+        [
+            {
+                "id": "Desc_XmasBall3_C",
+                "raw": false,
+                "name": "Copper FICSMAS Ornament",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            },
+            {
+                "id": "Desc_XmasBall4_C",
+                "raw": false,
+                "name": "Iron FICSMAS Ornament",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            }
+        ]
+    ],
+    "Desc_XmasBall1_C": [
+        [
+            {
+                "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            }
+        ]
+    ],
+    "Desc_XmasBall2_C": [
+        [
+            {
+                "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 5,
+                    "amount": 5
+                }
+            }
+        ]
+    ],
+    "Desc_XmasBall3_C": [
+        [
+            {
+                "id": "Desc_XmasBall1_C",
+                "raw": false,
+                "name": "Red FICSMAS Ornament",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            },
+            {
+                "id": "Desc_CopperIngot_C",
+                "raw": false,
+                "name": "Copper Ingot",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_XmasBall4_C": [
+        [
+            {
+                "id": "Desc_XmasBall2_C",
+                "raw": false,
+                "name": "Blue FICSMAS Ornament",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            },
+            {
+                "id": "Desc_IronIngot_C",
+                "raw": false,
+                "name": "Iron Ingot",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ]
+    ],
+    "Desc_Snow_C": [
+        [
+            {
+                "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
+                "amountRaw": "5",
+                "amount": "5",
+                "perMinute": {
+                    "amountRaw": 25,
+                    "amount": 25
+                }
+            }
+        ]
+    ],
+    "Desc_XmasBranch_C": [
+        [
+            {
+                "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
+                "amountRaw": "1",
+                "amount": "1",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_XmasBow_C": [
+        [
+            {
+                "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
+                "amountRaw": "2",
+                "amount": "2",
+                "perMinute": {
+                    "amountRaw": 10,
+                    "amount": 10
+                }
+            }
+        ]
+    ],
+    "Desc_CandyCane_C": [
+        [
+            {
+                "id": "Desc_Gift_C",
+                "raw": false,
+                "name": "FICSMAS Gift",
+                "amountRaw": "3",
+                "amount": "3",
+                "perMinute": {
+                    "amountRaw": 15,
+                    "amount": 15
+                }
+            }
+        ]
+    ]
+}

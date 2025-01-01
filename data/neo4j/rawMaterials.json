@@ -1,0 +1,50 @@
+[
+    {
+        "id": "Desc_Water_C",
+        "name": "Water"
+    },
+    {
+        "id": "Desc_OreIron_C",
+        "name": "Iron Ore"
+    },
+    {
+        "id": "Desc_Stone_C",
+        "name": "Limestone"
+    },
+    {
+        "id": "Desc_Coal_C",
+        "name": "Coal"
+    },
+    {
+        "id": "Desc_Sulfur_C",
+        "name": "Sulfur"
+    },
+    {
+        "id": "Desc_LiquidOil_C",
+        "name": "Crude Oil"
+    },
+    {
+        "id": "Desc_RawQuartz_C",
+        "name": "Raw Quartz"
+    },
+    {
+        "id": "Desc_OreCopper_C",
+        "name": "Copper Ore"
+    },
+    {
+        "id": "Desc_OreGold_C",
+        "name": "Caterium Ore"
+    },
+    {
+        "id": "Desc_OreUranium_C",
+        "name": "Uranium"
+    },
+    {
+        "id": "Desc_NitrogenGas_C",
+        "name": "Nitrogen Gas"
+    },
+    {
+        "id": "Desc_OreBauxite_C",
+        "name": "Bauxite"
+    }
+]

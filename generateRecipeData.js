@@ -1,4 +1,4 @@
-const data = require("./data/active/GameData.json");
+const data = require("./data/active/GameDataRelease.json");
 const liquids = require("./data/active/liquids.json");
 const rawMaterials = require("./data/active/rawMaterials.json");
 const fs = require("fs");
@@ -45,7 +45,7 @@ const generateRecipeData = () => {
     recipeItem.produce = el.mProduct.split("),(").map((inner) => {
       const clearData = inner
         .replace(
-          "ItemClass=/Script/Engine.BlueprintGeneratedClass'\"/Game/FactoryGame/",
+          "ItemClass=\"/Script/Engine.BlueprintGeneratedClass'/Game/FactoryGame/",
           ""
         )
         .split(",");
@@ -75,7 +75,8 @@ const generateRecipeData = () => {
     recipeItem.ingredients = el.mIngredients.split("),(").map((inner) => {
       const clearData = inner
         .replace(
-          "ItemClass=/Script/Engine.BlueprintGeneratedClass'\"/Game/FactoryGame/",
+          // "ItemClass=/Script/Engine.BlueprintGeneratedClass'\"/Game/FactoryGame/",
+          "ItemClass=\"/Script/Engine.BlueprintGeneratedClass'/Game/FactoryGame",
           ""
         )
         .split(",");
@@ -108,11 +109,14 @@ const generateRecipeData = () => {
 
     return acc;
   }, []);
-  fs.writeFileSync("./data/active/newRecipes.json", JSON.stringify(result));
+  fs.writeFileSync(
+    "./data/active/newRecipesRelease.json",
+    JSON.stringify(result)
+  );
 };
 
 const resolveNames = (id) => {
-  return unifyData().find((el) => el.ClassName === id).mDisplayName;
+  return unifyData().find((el) => el.ClassName === id)?.mDisplayName || "N/A";
 };
 
 generateRecipeData();
