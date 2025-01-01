@@ -19,6 +19,8 @@ target.ingredients?.forEach((el) => {
 
 function recur(item, wantedAmount) {
   const target = baseData.find((el) => el.name === item.name);
+  if (!target || !target.produce) return;
+
   const perMinute = target.produce[0].perMinute.amount;
   let targetAmount;
 
